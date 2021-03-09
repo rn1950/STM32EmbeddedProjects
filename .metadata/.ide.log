@@ -1,0 +1,1216 @@
+2021-03-07 03:23:37,052 [INFO] Activator:170 - 
+
+
+2021-03-07 03:23:37,054 [INFO] Activator:171 - !SESSION log4j initialized
+2021-03-07 03:23:50,663 [INFO] McuFinderGlobals:39 - Set McuFinder mode to 2 (CubeIDE integrated)
+2021-03-07 03:23:50,724 [INFO] ApplicationProperties:181 - Using Application install path: /opt/st/stm32cubeide_1.6.0/plugins/com.st.stm32cube.common.mx_6.2.0.202102191602
+2021-03-07 03:23:50,732 [INFO] DbMcusXml:74 - Set database path to: /opt/st/stm32cubeide_1.6.0/plugins/com.st.stm32cube.common.mx_6.2.0.202102191602//db//mcu/
+2021-03-07 03:23:50,735 [INFO] DbBoardsPdsc:56 - Set plugin database path to: /opt/st/stm32cubeide_1.6.0/plugins/com.st.stm32cube.common.mx_6.2.0.202102191602//db//plugins/boardmanager/
+2021-03-07 03:23:50,735 [INFO] DbMcus:258 - Set plugin images path to: /opt/st/stm32cubeide_1.6.0/plugins/com.st.stm32cube.common.mx_6.2.0.202102191602//db//plugins/mcufinder/images/
+2021-03-07 03:23:50,735 [INFO] DbBoards:264 - Set plugin images path to: /opt/st/stm32cubeide_1.6.0/plugins/com.st.stm32cube.common.mx_6.2.0.202102191602//db//plugins/mcufinder/images/
+2021-03-07 03:23:50,737 [INFO] DbExamples:333 - Set plugin images path to: /opt/st/stm32cubeide_1.6.0/plugins/com.st.stm32cube.common.mx_6.2.0.202102191602//db//plugins/mcufinder/images/
+2021-03-07 03:23:51,208 [WARN] ApiFinderProperties:104 - /home/robbynelson/.stmcufinder/plugins/mcufinder/mcu/mcuFinder.mfd doesn't exist
+2021-03-07 03:23:51,209 [INFO] DbMcusAds:85 - Set database path to: /home/robbynelson/.stmcufinder/plugins/mcufinder//mcu/
+2021-03-07 03:23:51,210 [INFO] DbMcusDocs:110 - Set database path to: /home/robbynelson/.stmcufinder/plugins/mcufinder//mcu/
+2021-03-07 03:23:51,211 [INFO] DbMcusJson:65 - Set database path to: /home/robbynelson/.stmcufinder/plugins/mcufinder//mcu/
+2021-03-07 03:23:51,211 [INFO] DbBoardsDocs:110 - Set database path to: /home/robbynelson/.stmcufinder/plugins/mcufinder//mcu/
+2021-03-07 03:23:51,212 [INFO] DbBoardsJson:58 - Set database path to: /home/robbynelson/.stmcufinder/plugins/mcufinder//mcu/
+2021-03-07 03:23:51,214 [INFO] CrossReferenceDbSqlite:196 - Set database path to: /home/robbynelson/.stmcufinder/plugins/mcufinder//mcu/cs/
+2021-03-07 03:23:51,217 [INFO] DbExamplesSqlite:690 - Set database path to: /home/robbynelson/.stmcufinder/plugins/mcufinder//mcu/
+2021-03-07 03:23:51,303 [INFO] RulesReader:52 - Compatibility file has been processed (237 Rules)
+2021-03-07 03:23:51,351 [INFO] MicroXplorer:622 - Detected Java Version = 11.0.9.1
+2021-03-07 03:23:51,352 [INFO] DbMcusXml:74 - Set database path to: /opt/st/stm32cubeide_1.6.0/plugins/com.st.stm32cube.common.mx_6.2.0.202102191602//db//mcu/
+2021-03-07 03:23:51,352 [INFO] DbBoardsPdsc:56 - Set plugin database path to: /opt/st/stm32cubeide_1.6.0/plugins/com.st.stm32cube.common.mx_6.2.0.202102191602//db//plugins/boardmanager/
+2021-03-07 03:23:51,352 [INFO] DbMcus:258 - Set plugin images path to: /opt/st/stm32cubeide_1.6.0/plugins/com.st.stm32cube.common.mx_6.2.0.202102191602//db//plugins/mcufinder/images/
+2021-03-07 03:23:51,352 [INFO] DbBoards:264 - Set plugin images path to: /opt/st/stm32cubeide_1.6.0/plugins/com.st.stm32cube.common.mx_6.2.0.202102191602//db//plugins/mcufinder/images/
+2021-03-07 03:23:51,353 [INFO] DbExamples:333 - Set plugin images path to: /opt/st/stm32cubeide_1.6.0/plugins/com.st.stm32cube.common.mx_6.2.0.202102191602//db//plugins/mcufinder/images/
+2021-03-07 03:23:51,353 [WARN] DbFile:35 - Overriding database path with different value: /home/robbynelson/.stmcufinder/plugins/mcufinder/ => /home/robbynelson/.stmcufinder/plugins/mcufinder
+2021-03-07 03:23:51,353 [INFO] DbMcusAds:85 - Set database path to: /home/robbynelson/.stmcufinder/plugins/mcufinder//mcu/
+2021-03-07 03:23:51,353 [WARN] DbFile:35 - Overriding database path with different value: /home/robbynelson/.stmcufinder/plugins/mcufinder/ => /home/robbynelson/.stmcufinder/plugins/mcufinder
+2021-03-07 03:23:51,353 [INFO] DbMcusDocs:110 - Set database path to: /home/robbynelson/.stmcufinder/plugins/mcufinder//mcu/
+2021-03-07 03:23:51,353 [WARN] DbFile:35 - Overriding database path with different value: /home/robbynelson/.stmcufinder/plugins/mcufinder/ => /home/robbynelson/.stmcufinder/plugins/mcufinder
+2021-03-07 03:23:51,353 [INFO] DbMcusJson:65 - Set database path to: /home/robbynelson/.stmcufinder/plugins/mcufinder//mcu/
+2021-03-07 03:23:51,354 [WARN] DbFile:35 - Overriding database path with different value: /home/robbynelson/.stmcufinder/plugins/mcufinder/ => /home/robbynelson/.stmcufinder/plugins/mcufinder
+2021-03-07 03:23:51,354 [INFO] DbBoardsDocs:110 - Set database path to: /home/robbynelson/.stmcufinder/plugins/mcufinder//mcu/
+2021-03-07 03:23:51,354 [WARN] DbFile:35 - Overriding database path with different value: /home/robbynelson/.stmcufinder/plugins/mcufinder/ => /home/robbynelson/.stmcufinder/plugins/mcufinder
+2021-03-07 03:23:51,354 [INFO] DbBoardsJson:58 - Set database path to: /home/robbynelson/.stmcufinder/plugins/mcufinder//mcu/
+2021-03-07 03:23:51,354 [WARN] DbFile:35 - Overriding database path with different value: /home/robbynelson/.stmcufinder/plugins/mcufinder/ => /home/robbynelson/.stmcufinder/plugins/mcufinder
+2021-03-07 03:23:51,354 [WARN] DbFile:35 - Overriding database path with different value: /home/robbynelson/.stmcufinder/plugins/mcufinder/ => /home/robbynelson/.stmcufinder/plugins/mcufinder
+2021-03-07 03:23:51,355 [INFO] CrossReferenceDbSqlite:196 - Set database path to: /home/robbynelson/.stmcufinder/plugins/mcufinder//mcu/cs/
+2021-03-07 03:23:51,355 [WARN] DbFile:35 - Overriding database path with different value: /home/robbynelson/.stmcufinder/plugins/mcufinder/ => /home/robbynelson/.stmcufinder/plugins/mcufinder
+2021-03-07 03:23:51,355 [INFO] DbExamplesSqlite:690 - Set database path to: /home/robbynelson/.stmcufinder/plugins/mcufinder//mcu/
+2021-03-07 03:23:51,406 [INFO] MainPanel:204 - HeapMemory: 268435456
+2021-03-07 03:23:51,470 [INFO] DbMcusXml:74 - Set database path to: /opt/st/stm32cubeide_1.6.0/plugins/com.st.stm32cube.common.mx_6.2.0.202102191602//db//mcu/
+2021-03-07 03:23:51,470 [INFO] DbBoardsPdsc:56 - Set plugin database path to: /opt/st/stm32cubeide_1.6.0/plugins/com.st.stm32cube.common.mx_6.2.0.202102191602//db//plugins/boardmanager/
+2021-03-07 03:23:51,471 [INFO] DbMcus:258 - Set plugin images path to: /opt/st/stm32cubeide_1.6.0/plugins/com.st.stm32cube.common.mx_6.2.0.202102191602//db//plugins/mcufinder/images/
+2021-03-07 03:23:51,471 [INFO] DbBoards:264 - Set plugin images path to: /opt/st/stm32cubeide_1.6.0/plugins/com.st.stm32cube.common.mx_6.2.0.202102191602//db//plugins/mcufinder/images/
+2021-03-07 03:23:51,471 [INFO] DbExamples:333 - Set plugin images path to: /opt/st/stm32cubeide_1.6.0/plugins/com.st.stm32cube.common.mx_6.2.0.202102191602//db//plugins/mcufinder/images/
+2021-03-07 03:23:51,471 [WARN] DbFile:35 - Overriding database path with different value: /home/robbynelson/.stmcufinder/plugins/mcufinder/ => /home/robbynelson/.stmcufinder/plugins/mcufinder
+2021-03-07 03:23:51,471 [INFO] DbMcusAds:85 - Set database path to: /home/robbynelson/.stmcufinder/plugins/mcufinder//mcu/
+2021-03-07 03:23:51,471 [WARN] DbFile:35 - Overriding database path with different value: /home/robbynelson/.stmcufinder/plugins/mcufinder/ => /home/robbynelson/.stmcufinder/plugins/mcufinder
+2021-03-07 03:23:51,472 [INFO] DbMcusDocs:110 - Set database path to: /home/robbynelson/.stmcufinder/plugins/mcufinder//mcu/
+2021-03-07 03:23:51,472 [WARN] DbFile:35 - Overriding database path with different value: /home/robbynelson/.stmcufinder/plugins/mcufinder/ => /home/robbynelson/.stmcufinder/plugins/mcufinder
+2021-03-07 03:23:51,472 [INFO] DbMcusJson:65 - Set database path to: /home/robbynelson/.stmcufinder/plugins/mcufinder//mcu/
+2021-03-07 03:23:51,472 [WARN] DbFile:35 - Overriding database path with different value: /home/robbynelson/.stmcufinder/plugins/mcufinder/ => /home/robbynelson/.stmcufinder/plugins/mcufinder
+2021-03-07 03:23:51,472 [INFO] DbBoardsDocs:110 - Set database path to: /home/robbynelson/.stmcufinder/plugins/mcufinder//mcu/
+2021-03-07 03:23:51,472 [WARN] DbFile:35 - Overriding database path with different value: /home/robbynelson/.stmcufinder/plugins/mcufinder/ => /home/robbynelson/.stmcufinder/plugins/mcufinder
+2021-03-07 03:23:51,472 [INFO] DbBoardsJson:58 - Set database path to: /home/robbynelson/.stmcufinder/plugins/mcufinder//mcu/
+2021-03-07 03:23:51,473 [WARN] DbFile:35 - Overriding database path with different value: /home/robbynelson/.stmcufinder/plugins/mcufinder/ => /home/robbynelson/.stmcufinder/plugins/mcufinder
+2021-03-07 03:23:51,473 [WARN] DbFile:35 - Overriding database path with different value: /home/robbynelson/.stmcufinder/plugins/mcufinder/ => /home/robbynelson/.stmcufinder/plugins/mcufinder
+2021-03-07 03:23:51,473 [INFO] CrossReferenceDbSqlite:196 - Set database path to: /home/robbynelson/.stmcufinder/plugins/mcufinder//mcu/cs/
+2021-03-07 03:23:51,473 [WARN] DbFile:35 - Overriding database path with different value: /home/robbynelson/.stmcufinder/plugins/mcufinder/ => /home/robbynelson/.stmcufinder/plugins/mcufinder
+2021-03-07 03:23:51,473 [INFO] DbExamplesSqlite:690 - Set database path to: /home/robbynelson/.stmcufinder/plugins/mcufinder//mcu/
+2021-03-07 03:23:51,488 [INFO] ApplicationProperties:181 - Using Application install path: /opt/st/stm32cubeide_1.6.0/plugins/com.st.stm32cube.common.mx_6.2.0.202102191602
+2021-03-07 03:23:51,489 [INFO] PluginManage:178 - Search for loadable plugins [exclusion list=, ]
+2021-03-07 03:23:51,490 [INFO] PluginManage:292 - Check plugin analytics
+2021-03-07 03:23:51,605 [INFO] AnalyticsPlugin:233 - Accepted Software Licenses: 
+2021-03-07 03:23:51,605 [INFO] AnalyticsPlugin:235 - Accepted CMSIS Pack Licenses: 
+2021-03-07 03:23:51,606 [INFO] AnalyticsPlugin:237 - Accepted Firmware Licenses: 
+2021-03-07 03:23:51,606 [INFO] PluginManage:342 - Loaded plugin analytics (category:tool,tabindex:-1)
+2021-03-07 03:23:51,606 [INFO] PluginManage:292 - Check plugin clock
+2021-03-07 03:23:51,615 [INFO] PluginManage:342 - Loaded plugin clock (category:base,tabindex:2)
+2021-03-07 03:23:51,615 [INFO] PluginManage:292 - Check plugin ddr
+2021-03-07 03:23:51,617 [INFO] PluginManage:342 - Loaded plugin ddr (category:tool,tabindex:6)
+2021-03-07 03:23:51,617 [INFO] PluginManage:292 - Check plugin filemanager
+2021-03-07 03:23:51,710 [INFO] PluginManage:342 - Loaded plugin filemanager (category:base,tabindex:10)
+2021-03-07 03:23:51,710 [INFO] PluginManage:292 - Check plugin ipmanager
+2021-03-07 03:23:51,715 [INFO] PluginManage:342 - Loaded plugin ipmanager (category:base,tabindex:5)
+2021-03-07 03:23:51,715 [INFO] PluginManage:292 - Check plugin pinoutandconfiguration
+2021-03-07 03:23:51,721 [INFO] PluginManage:342 - Loaded plugin pinoutandconfiguration (category:base,tabindex:1)
+2021-03-07 03:23:51,721 [INFO] PluginManage:292 - Check plugin pinoutconfig
+2021-03-07 03:23:51,739 [INFO] PluginManage:342 - Loaded plugin pinoutconfig (category:base,tabindex:0)
+2021-03-07 03:23:51,739 [INFO] PluginManage:292 - Check plugin power
+2021-03-07 03:23:51,762 [INFO] PluginManage:342 - Loaded plugin power (category:power,tabindex:4)
+2021-03-07 03:23:51,763 [INFO] PluginManage:292 - Check plugin projectmanager
+2021-03-07 03:23:51,777 [INFO] PluginManage:342 - Loaded plugin projectmanager (category:projectmanager,tabindex:3)
+2021-03-07 03:23:51,777 [INFO] PluginManage:292 - Check plugin thirdparty
+2021-03-07 03:23:51,861 [INFO] PluginManage:342 - Loaded plugin thirdparty (category:base,tabindex:-1)
+2021-03-07 03:23:51,862 [WARN] IntegrityCheckThread:59 - waiting for thirdparty lock release [integrity check]
+2021-03-07 03:23:51,862 [INFO] PluginManage:292 - Check plugin tools
+2021-03-07 03:23:51,862 [INFO] IntegrityCheckThread:61 - entering critical section [integrity check]
+2021-03-07 03:23:51,862 [INFO] ThirdPartyUpdaterWithRetryManager:56 - Updater plugin not ready yet. [1/15]
+2021-03-07 03:23:51,863 [INFO] PluginManage:342 - Loaded plugin tools (category:base,tabindex:7)
+2021-03-07 03:23:51,864 [INFO] PluginManage:292 - Check plugin tutovideos
+2021-03-07 03:23:52,008 [INFO] PluginManage:342 - Loaded plugin tutovideos (category:base,tabindex:-1)
+2021-03-07 03:23:52,009 [INFO] PluginManage:292 - Check plugin updater
+2021-03-07 03:23:52,018 [INFO] PluginManage:342 - Loaded plugin updater (category:base,tabindex:12)
+2021-03-07 03:23:52,018 [INFO] PluginManage:265 - PluginManage : Loaded plugins [13]
+2021-03-07 03:23:52,186 [INFO] PinOutPanel:1435 - setPackage(No Configuration,No Configuration)
+2021-03-07 03:23:52,241 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:23:52,241 [INFO] PluginManager:203 - loadIPPluginJar : add resmgrutility
+2021-03-07 03:23:52,245 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:23:52,245 [INFO] PluginManager:203 - loadIPPluginJar : add cryp
+2021-03-07 03:23:52,247 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:23:52,247 [INFO] PluginManager:203 - loadIPPluginJar : add usart
+2021-03-07 03:23:52,248 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:23:52,249 [INFO] PluginManager:203 - loadIPPluginJar : add dfsdm
+2021-03-07 03:23:52,249 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:23:52,250 [INFO] PluginManager:203 - loadIPPluginJar : add comp
+2021-03-07 03:23:52,251 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:23:52,251 [INFO] PluginManager:203 - loadIPPluginJar : add ucpd
+2021-03-07 03:23:52,252 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:23:52,253 [INFO] PluginManager:203 - loadIPPluginJar : add can
+2021-03-07 03:23:52,254 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:23:52,254 [INFO] PluginManager:203 - loadIPPluginJar : add i2c
+2021-03-07 03:23:52,255 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:23:52,255 [INFO] PluginManager:203 - loadIPPluginJar : add fatfs
+2021-03-07 03:23:52,257 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:23:52,257 [INFO] PluginManager:203 - loadIPPluginJar : add gfxmmu
+2021-03-07 03:23:52,258 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:23:52,258 [INFO] PluginManager:203 - loadIPPluginJar : add tim
+2021-03-07 03:23:52,263 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:23:52,263 [INFO] PluginManager:203 - loadIPPluginJar : add dma
+2021-03-07 03:23:52,265 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:23:52,265 [INFO] PluginManager:203 - loadIPPluginJar : add openamp
+2021-03-07 03:23:52,267 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:23:52,268 [INFO] PluginManager:203 - loadIPPluginJar : add opamp
+2021-03-07 03:23:52,270 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:23:52,270 [INFO] PluginManager:203 - loadIPPluginJar : add pdm2pcm
+2021-03-07 03:23:52,272 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:23:52,272 [INFO] PluginManager:203 - loadIPPluginJar : add touchsensing
+2021-03-07 03:23:52,274 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:23:52,274 [INFO] PluginManager:203 - loadIPPluginJar : add spi
+2021-03-07 03:23:52,276 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:23:52,276 [INFO] PluginManager:203 - loadIPPluginJar : add aes
+2021-03-07 03:23:52,279 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:23:52,279 [INFO] PluginManager:203 - loadIPPluginJar : add mdma
+2021-03-07 03:23:52,281 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:23:52,281 [INFO] PluginManager:203 - loadIPPluginJar : add gtzc
+2021-03-07 03:23:52,283 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:23:52,284 [INFO] PluginManager:203 - loadIPPluginJar : add ipddr
+2021-03-07 03:23:52,286 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:23:52,286 [INFO] PluginManager:203 - loadIPPluginJar : add nvic
+2021-03-07 03:23:52,290 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:23:52,290 [INFO] PluginManager:203 - loadIPPluginJar : add fmc
+2021-03-07 03:23:52,292 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:23:52,292 [INFO] PluginManager:203 - loadIPPluginJar : add tracer_emb
+2021-03-07 03:23:52,293 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:23:52,293 [INFO] PluginManager:203 - loadIPPluginJar : add ts
+2021-03-07 03:23:52,298 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:23:52,298 [INFO] PluginManager:203 - loadIPPluginJar : add freertos
+2021-03-07 03:23:52,299 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:23:52,299 [INFO] PluginManager:203 - loadIPPluginJar : add ltdc
+2021-03-07 03:23:52,301 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:23:52,301 [INFO] PluginManager:203 - loadIPPluginJar : add i2s
+2021-03-07 03:23:52,302 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:23:52,303 [INFO] PluginManager:203 - loadIPPluginJar : add hash
+2021-03-07 03:23:52,304 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:23:52,304 [INFO] PluginManager:203 - loadIPPluginJar : add genericplugin
+2021-03-07 03:23:52,305 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:23:52,305 [INFO] PluginManager:203 - loadIPPluginJar : add tsc
+2021-03-07 03:23:52,308 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:23:52,308 [INFO] PluginManager:203 - loadIPPluginJar : add gpio
+2021-03-07 03:23:52,313 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:23:52,313 [INFO] PluginManager:203 - loadIPPluginJar : add adc
+2021-03-07 03:23:52,318 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:23:52,320 [INFO] PluginManager:203 - loadIPPluginJar : add plateformsettings
+2021-03-07 03:23:52,325 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:23:52,325 [INFO] PluginManager:203 - loadIPPluginJar : add gic
+2021-03-07 03:23:52,326 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:23:52,327 [INFO] PluginManager:203 - loadIPPluginJar : add lorawan
+2021-03-07 03:23:52,328 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:23:52,328 [INFO] PluginManager:203 - loadIPPluginJar : add quadspi
+2021-03-07 03:23:52,332 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:23:52,333 [INFO] PluginManager:203 - loadIPPluginJar : add stm32_wpan
+2021-03-07 03:23:52,335 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:23:52,335 [INFO] PluginManager:203 - loadIPPluginJar : add sai
+2021-03-07 03:23:52,564 [FATAL] Updater:284 - Updater called before beeing initialized
+2021-03-07 03:23:52,623 [FATAL] Updater:284 - Updater called before beeing initialized
+2021-03-07 03:23:52,626 [INFO] DbMcusAds:132 - JSON generation date=Thu Feb 11 09:55:24 EST 2021 (1613055324029)
+2021-03-07 03:23:52,627 [FATAL] Updater:284 - Updater called before beeing initialized
+2021-03-07 03:23:52,657 [WARN] DetailPanel:315 - Failed to get advertising image, set to default
+2021-03-07 03:23:52,810 [FATAL] Updater:284 - Updater called before beeing initialized
+2021-03-07 03:23:52,811 [FATAL] Updater:284 - Updater called before beeing initialized
+2021-03-07 03:23:52,811 [FATAL] Updater:284 - Updater called before beeing initialized
+2021-03-07 03:23:52,812 [WARN] DetailPanel:315 - Failed to get advertising image, set to default
+2021-03-07 03:23:52,813 [FATAL] Updater:284 - Updater called before beeing initialized
+2021-03-07 03:23:52,840 [FATAL] Updater:284 - Updater called before beeing initialized
+2021-03-07 03:23:52,840 [WARN] ThirdParty:796 - waiting for thirdparty lock release [close project]
+2021-03-07 03:23:54,863 [INFO] ThirdPartyUpdaterWithRetryManager:56 - Updater plugin not ready yet. [2/15]
+2021-03-07 03:23:57,864 [FATAL] Updater:284 - Updater called before beeing initialized
+2021-03-07 03:23:57,864 [ERROR] AbstractThirdPartyUpdaterManager:153 - class java.lang.Integer cannot be cast to class java.util.List (java.lang.Integer and java.util.List are in module java.base of loader 'bootstrap')
+2021-03-07 03:23:57,865 [INFO] ThirdParty:900 - Integrity check success = false
+2021-03-07 03:23:57,865 [INFO] IntegrityCheckThread:75 - exiting critical section [integrity check]
+2021-03-07 03:23:57,865 [INFO] IntegrityCheckThread:78 - End integrity checks thread
+2021-03-07 03:23:57,865 [INFO] ThirdParty:798 - entering critical section [close project]
+2021-03-07 03:23:57,868 [INFO] ThirdParty:809 - exiting critical section [close project]
+2021-03-07 03:23:57,873 [INFO] PinOutPanel:1435 - setPackage(No Configuration,No Configuration)
+2021-03-07 03:23:57,873 [FATAL] Updater:284 - Updater called before beeing initialized
+2021-03-07 03:23:57,879 [INFO] Updater:1002 - Updater Version found : 6.2.0
+2021-03-07 03:23:57,894 [INFO] ApplicationProperties:181 - Using Application install path: /opt/st/stm32cubeide_1.6.0/plugins/com.st.stm32cube.common.mx_6.2.0.202102191602
+2021-03-07 03:23:57,914 [INFO] MainUpdater:479 - Copy updater definitions from MX database
+2021-03-07 03:23:57,928 [INFO] MainUpdater:512 - Copy flag file definitions from MX database
+2021-03-07 03:23:57,929 [INFO] MainUpdater:528 - Copy thirdparty index definitions from MX database
+2021-03-07 03:23:57,929 [INFO] MainUpdater:547 - Copy default thirdparty db definitions from MX database
+2021-03-07 03:23:58,218 [INFO] MainUpdater:2661 - connection check result : 10
+2021-03-07 03:23:58,219 [INFO] MainUpdater:3349 - Updater definition file requires update
+2021-03-07 03:23:58,220 [INFO] MainUpdater:255 - Updater Check For Update Now.
+2021-03-07 03:23:58,221 [INFO] MicroXplorer:472 - Change Database Version : DB.6.0.20
+2021-03-07 03:23:58,291 [INFO] ServerAccessManage:348 - Download File updaters.zip
+2021-03-07 03:23:58,539 [INFO] FileExtend:225 - Unzip File : updaters.zip
+2021-03-07 03:23:58,539 [INFO] FileExtend:240 - Standard Zip Deflate
+2021-03-07 03:23:58,684 [INFO] ServerAccessManage:348 - Download File PacksControlFlags.xml
+2021-03-07 03:23:58,827 [INFO] ServerAccessManage:348 - Download File cubemx.pidx
+2021-03-07 03:23:58,877 [INFO] ServerAccessManage:348 - Download File STMicroelectronics.X-CUBE-AI.pdsc
+2021-03-07 03:23:58,976 [INFO] ServerAccessManage:348 - Download File STMicroelectronics.X-CUBE-BLE1.pdsc
+2021-03-07 03:23:59,297 [ERROR] ServerAccessManage:947 - Problem, file not found on Server
+2021-03-07 03:23:59,313 [INFO] ServerAccessManage:348 - Download File STMicroelectronics.X-CUBE-BLE2.pdsc
+2021-03-07 03:23:59,385 [INFO] ServerAccessManage:348 - Download File STMicroelectronics.X-CUBE-DISPLAY.pdsc
+2021-03-07 03:23:59,415 [INFO] ServerAccessManage:348 - Download File STMicroelectronics.X-CUBE-EEPRMA1.pdsc
+2021-03-07 03:23:59,442 [INFO] ServerAccessManage:348 - Download File STMicroelectronics.X-CUBE-GNSS1.pdsc
+2021-03-07 03:23:59,717 [ERROR] ServerAccessManage:947 - Problem, file not found on Server
+2021-03-07 03:23:59,826 [ERROR] ServerAccessManage:947 - Problem, file not found on Server
+2021-03-07 03:24:00,027 [ERROR] ServerAccessManage:947 - Problem, file not found on Server
+2021-03-07 03:24:00,236 [ERROR] ServerAccessManage:947 - Problem, file not found on Server
+2021-03-07 03:24:00,340 [ERROR] ServerAccessManage:947 - Problem, file not found on Server
+2021-03-07 03:24:00,526 [ERROR] ServerAccessManage:947 - Problem, file not found on Server
+2021-03-07 03:24:00,541 [INFO] ServerAccessManage:348 - Download File STMicroelectronics.X-CUBE-MEMS1.pdsc
+2021-03-07 03:24:00,742 [INFO] ServerAccessManage:348 - Download File STMicroelectronics.X-CUBE-NFC4.pdsc
+2021-03-07 03:24:00,845 [INFO] ServerAccessManage:348 - Download File STMicroelectronics.X-CUBE-SFXS2LP1.pdsc
+2021-03-07 03:24:00,883 [INFO] ServerAccessManage:348 - Download File STMicroelectronics.X-CUBE-SUBG2.pdsc
+2021-03-07 03:24:00,978 [INFO] ServerAccessManage:348 - Download File STMicroelectronics.X-CUBE-TOUCHGFX.pdsc
+2021-03-07 03:24:01,051 [INFO] ServerAccessManage:348 - Download File STMicroelectronics.X-CUBE-ALGOBUILD.pdsc
+2021-03-07 03:24:01,109 [INFO] ServerAccessManage:348 - Download File STMicroelectronics.X-CUBE-AZRTOS-H7.pdsc
+2021-03-07 03:24:01,389 [INFO] ServerAccessManage:348 - Download File wolfSSL.I-CUBE-wolfSSL.pdsc
+2021-03-07 03:24:01,953 [ERROR] ServerAccessManage:947 - Problem, file not found on Server
+2021-03-07 03:24:02,074 [ERROR] ServerAccessManage:947 - Problem, file not found on Server
+2021-03-07 03:24:02,195 [ERROR] ServerAccessManage:947 - Problem, file not found on Server
+2021-03-07 03:24:02,406 [INFO] ServerAccessManage:348 - Download File RoweBots.I-CUBE-UNISONRTOS.pdsc
+2021-03-07 03:24:03,886 [ERROR] ServerAccessManage:947 - Problem, file not found on Server
+2021-03-07 03:24:05,095 [ERROR] ServerAccessManage:947 - Problem, file not found on Server
+2021-03-07 03:24:06,356 [ERROR] ServerAccessManage:947 - Problem, file not found on Server
+2021-03-07 03:24:07,499 [ERROR] ServerAccessManage:947 - Problem, file not found on Server
+2021-03-07 03:24:07,568 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AI.5.2.0
+2021-03-07 03:24:07,576 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.X-CUBE-BLE1.6.1.0
+2021-03-07 03:24:07,580 [INFO] CheckServerUpdateThread:102 - End of CheckServer Thread
+2021-03-07 03:24:07,582 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.X-CUBE-BLE2.3.2.0
+2021-03-07 03:24:07,587 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.X-CUBE-DISPLAY.1.0.0
+2021-03-07 03:24:07,591 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.X-CUBE-EEPRMA1.3.0.0
+2021-03-07 03:24:07,600 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.X-CUBE-GNSS1.5.2.0
+2021-03-07 03:24:07,651 [INFO] MainUpdater:2661 - connection check result : 10
+2021-03-07 03:24:07,672 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.X-CUBE-MEMS1.8.2.0
+2021-03-07 03:24:07,760 [INFO] MainUpdater:2661 - connection check result : 10
+2021-03-07 03:24:07,843 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] java.lang.NullPointerException
+2021-03-07 03:24:07,844 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.projectcreation.ui.wizard.TargetSetupPageAbstract.createControl(TargetSetupPageAbstract.java:131)
+2021-03-07 03:24:07,845 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.wizard.Wizard.createPageControls(Wizard.java:178)
+2021-03-07 03:24:07,846 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.wizard.WizardDialog.createPageControls(WizardDialog.java:743)
+2021-03-07 03:24:07,847 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.wizard.WizardDialog.createContents(WizardDialog.java:635)
+2021-03-07 03:24:07,848 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.window.Window.create(Window.java:431)
+2021-03-07 03:24:07,849 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.dialogs.Dialog.create(Dialog.java:1094)
+2021-03-07 03:24:07,850 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.window.Window.open(Window.java:788)
+2021-03-07 03:24:07,851 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.informationcenter.WelcomePageAction.run(WelcomePageAction.java:54)
+2021-03-07 03:24:07,852 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.model.url.IntroURL.runAction(IntroURL.java:280)
+2021-03-07 03:24:07,853 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.model.url.IntroURL.doExecute(IntroURL.java:191)
+2021-03-07 03:24:07,854 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.model.url.IntroURL.lambda$0(IntroURL.java:146)
+2021-03-07 03:24:07,873 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:72)
+2021-03-07 03:24:07,874 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.model.url.IntroURL.execute(IntroURL.java:146)
+2021-03-07 03:24:07,875 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.presentations.BrowserIntroPartLocationListener.changing(BrowserIntroPartLocationListener.java:130)
+2021-03-07 03:24:07,875 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.browser.WebKit.webkit_decide_policy(WebKit.java:2442)
+2021-03-07 03:24:07,876 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.browser.WebKit.webViewProc(WebKit.java:740)
+2021-03-07 03:24:07,877 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.browser.WebKit.Proc(WebKit.java:661)
+2021-03-07 03:24:07,879 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.internal.gtk.OS.g_main_context_iteration(Native Method)
+2021-03-07 03:24:07,880 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4444)
+2021-03-07 03:24:07,881 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.mx.oss.core.awtswtbridge.SwtInputBlocker.open(SwtInputBlocker.java:55)
+2021-03-07 03:24:07,882 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.mx.oss.core.awtswtbridge.SwtInputBlocker.block(SwtInputBlocker.java:111)
+2021-03-07 03:24:07,882 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.mx.oss.core.awtswtbridge.AwtEnvironment.invokeAwt(AwtEnvironment.java:179)
+2021-03-07 03:24:07,883 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.mx.oss.core.awtswtbridge.AwtEnvironment.invokeAwtAndBlockSwt(AwtEnvironment.java:206)
+2021-03-07 03:24:07,884 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.mx.targetselector.TargetSelectorAdapter.launchMCUFinder(TargetSelectorAdapter.java:196)
+2021-03-07 03:24:07,885 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.X-CUBE-NFC4.2.0.2
+2021-03-07 03:24:07,885 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.mx.targetselector.TargetSelectorAdapter.addTargetSelector(TargetSelectorAdapter.java:147)
+2021-03-07 03:24:07,886 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.projectcreation.ui.wizard.TargetSetupPageAbstract.createControl(TargetSetupPageAbstract.java:127)
+2021-03-07 03:24:07,887 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.wizard.Wizard.createPageControls(Wizard.java:178)
+2021-03-07 03:24:07,888 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.wizard.WizardDialog.createPageControls(WizardDialog.java:743)
+2021-03-07 03:24:07,888 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.wizard.WizardDialog.createContents(WizardDialog.java:635)
+2021-03-07 03:24:07,889 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.window.Window.create(Window.java:431)
+2021-03-07 03:24:07,890 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.dialogs.Dialog.create(Dialog.java:1094)
+2021-03-07 03:24:07,890 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.window.Window.open(Window.java:788)
+2021-03-07 03:24:07,891 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.informationcenter.WelcomePageAction.run(WelcomePageAction.java:54)
+2021-03-07 03:24:07,892 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.model.url.IntroURL.runAction(IntroURL.java:280)
+2021-03-07 03:24:07,892 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.model.url.IntroURL.doExecute(IntroURL.java:191)
+2021-03-07 03:24:07,893 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.model.url.IntroURL.lambda$0(IntroURL.java:146)
+2021-03-07 03:24:07,897 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.X-CUBE-SFXS2LP1.3.0.0
+2021-03-07 03:24:07,894 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:72)
+2021-03-07 03:24:07,905 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.model.url.IntroURL.execute(IntroURL.java:146)
+2021-03-07 03:24:07,906 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.presentations.BrowserIntroPartLocationListener.changing(BrowserIntroPartLocationListener.java:130)
+2021-03-07 03:24:07,907 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.browser.WebKit.webkit_decide_policy(WebKit.java:2442)
+2021-03-07 03:24:07,907 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.browser.WebKit.webViewProc(WebKit.java:740)
+2021-03-07 03:24:07,910 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.browser.WebKit.Proc(WebKit.java:661)
+2021-03-07 03:24:07,911 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.internal.gtk.OS.g_main_context_iteration(Native Method)
+2021-03-07 03:24:07,912 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4444)
+2021-03-07 03:24:07,914 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.X-CUBE-SUBG2.4.0.0
+2021-03-07 03:24:07,915 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1158)
+2021-03-07 03:24:07,916 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+2021-03-07 03:24:07,916 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1047)
+2021-03-07 03:24:07,917 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+2021-03-07 03:24:07,918 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:658)
+2021-03-07 03:24:07,918 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+2021-03-07 03:24:07,919 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:557)
+2021-03-07 03:24:07,920 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:154)
+2021-03-07 03:24:07,920 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:150)
+2021-03-07 03:24:07,921 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+2021-03-07 03:24:07,922 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:137)
+2021-03-07 03:24:07,923 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:107)
+2021-03-07 03:24:07,923 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+2021-03-07 03:24:07,924 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.X-CUBE-TOUCHGFX.4.16.1
+2021-03-07 03:24:07,924 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+2021-03-07 03:24:07,924 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2021-03-07 03:24:07,925 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+2021-03-07 03:24:07,926 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+2021-03-07 03:24:07,927 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+2021-03-07 03:24:07,927 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:657)
+2021-03-07 03:24:07,928 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
+2021-03-07 03:24:07,928 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.equinox.launcher.Main.run(Main.java:1447)
+2021-03-07 03:24:07,929 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.equinox.launcher.Main.main(Main.java:1420)
+2021-03-07 03:24:07,930 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.X-CUBE-ALGOBUILD.1.2.0
+2021-03-07 03:24:07,977 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-H7.1.0.0
+2021-03-07 03:24:07,986 [WARN] PackLoader:226 - Cannot read IP mode file for wolfSSL.I-CUBE-wolfSSL.4.7.0
+2021-03-07 03:24:07,986 [INFO] MainUpdater:2661 - connection check result : 10
+2021-03-07 03:24:07,993 [INFO] CrossSelectorPresenter:1330 - Cross Selector saved comparison directory: /home/robbynelson/.stmcufinder/plugins/mcufinder/mcu/cs_comparisons_mx
+2021-03-07 03:24:07,993 [WARN] PackLoader:226 - Cannot read IP mode file for RoweBots.I-CUBE-UNISONRTOS.5.5.0-4
+2021-03-07 03:24:07,995 [INFO] PopulateThirdPartyThread:50 - Ending populate Thread
+2021-03-07 03:24:07,999 [INFO] ThirdParty:952 - CMSIS Pack Vendor :RoweBots I-CUBE-UNISONRTOS 5.5.0-4
+2021-03-07 03:24:07,999 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SFXS2LP1 3.0.0
+2021-03-07 03:24:07,999 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 8.2.0
+2021-03-07 03:24:07,999 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-EEPRMA1 3.0.0
+2021-03-07 03:24:07,999 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-DISPLAY 1.0.0
+2021-03-07 03:24:07,999 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALGOBUILD 1.2.0
+2021-03-07 03:24:07,999 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 5.2.0
+2021-03-07 03:24:08,000 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 6.1.0
+2021-03-07 03:24:08,000 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SUBG2 4.0.0
+2021-03-07 03:24:08,000 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 2.0.2
+2021-03-07 03:24:08,000 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 5.2.0
+2021-03-07 03:24:08,000 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.16.1
+2021-03-07 03:24:08,000 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7 1.0.0
+2021-03-07 03:24:08,000 [INFO] ThirdParty:952 - CMSIS Pack Vendor :wolfSSL I-CUBE-wolfSSL 4.7.0
+2021-03-07 03:24:08,000 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE2 3.2.0
+2021-03-07 03:24:08,001 [INFO] LoadServerUpdatesThread:329 - End of LoadServerUpdate Thread
+2021-03-07 03:24:08,004 [INFO] MultiScanPanel:200 - Auto-refresh data requested => check proxy status ongoing
+2021-03-07 03:24:08,007 [INFO] FinderPluginLoader:87 - Searching for filters in installed packs
+2021-03-07 03:24:08,008 [INFO] DbMcusXml:100 - Load MCU database from /opt/st/stm32cubeide_1.6.0/plugins/com.st.stm32cube.common.mx_6.2.0.202102191602//db//mcu/families.xml
+2021-03-07 03:24:08,055 [INFO] MainUpdater:2661 - connection check result : 10
+2021-03-07 03:24:08,114 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] java.lang.NullPointerException
+2021-03-07 03:24:08,115 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.projectcreation.ui.wizard.TargetSetupPageAbstract.createControl(TargetSetupPageAbstract.java:131)
+2021-03-07 03:24:08,116 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.wizard.Wizard.createPageControls(Wizard.java:178)
+2021-03-07 03:24:08,117 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.wizard.WizardDialog.createPageControls(WizardDialog.java:743)
+2021-03-07 03:24:08,117 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.wizard.WizardDialog.createContents(WizardDialog.java:635)
+2021-03-07 03:24:08,118 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.window.Window.create(Window.java:431)
+2021-03-07 03:24:08,118 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.dialogs.Dialog.create(Dialog.java:1094)
+2021-03-07 03:24:08,119 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.window.Window.open(Window.java:788)
+2021-03-07 03:24:08,120 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.informationcenter.WelcomePageAction.run(WelcomePageAction.java:54)
+2021-03-07 03:24:08,120 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.model.url.IntroURL.runAction(IntroURL.java:280)
+2021-03-07 03:24:08,121 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.model.url.IntroURL.doExecute(IntroURL.java:191)
+2021-03-07 03:24:08,121 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.model.url.IntroURL.lambda$0(IntroURL.java:146)
+2021-03-07 03:24:08,122 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:72)
+2021-03-07 03:24:08,122 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.model.url.IntroURL.execute(IntroURL.java:146)
+2021-03-07 03:24:08,123 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.presentations.BrowserIntroPartLocationListener.changing(BrowserIntroPartLocationListener.java:130)
+2021-03-07 03:24:08,124 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.browser.WebKit.webkit_decide_policy(WebKit.java:2442)
+2021-03-07 03:24:08,124 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.browser.WebKit.webViewProc(WebKit.java:740)
+2021-03-07 03:24:08,125 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.browser.WebKit.Proc(WebKit.java:661)
+2021-03-07 03:24:08,125 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.internal.gtk.OS.g_main_context_iteration(Native Method)
+2021-03-07 03:24:08,126 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Shell.setVisible(Shell.java:2778)
+2021-03-07 03:24:08,126 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Shell.open(Shell.java:1923)
+2021-03-07 03:24:08,127 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.window.Window.open(Window.java:795)
+2021-03-07 03:24:08,127 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.dialogs.ProgressMonitorDialog.open(ProgressMonitorDialog.java:632)
+2021-03-07 03:24:08,127 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.dialogs.ProgressMonitorDialog.aboutToRun(ProgressMonitorDialog.java:541)
+2021-03-07 03:24:08,128 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.dialogs.ProgressMonitorDialog.run(ProgressMonitorDialog.java:466)
+2021-03-07 03:24:08,128 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.mx.targetselector.TargetSelectorAdapter.launchMCUFinder(TargetSelectorAdapter.java:235)
+2021-03-07 03:24:08,129 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.mx.targetselector.TargetSelectorAdapter.addTargetSelector(TargetSelectorAdapter.java:147)
+2021-03-07 03:24:08,129 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.projectcreation.ui.wizard.TargetSetupPageAbstract.createControl(TargetSetupPageAbstract.java:127)
+2021-03-07 03:24:08,130 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.wizard.Wizard.createPageControls(Wizard.java:178)
+2021-03-07 03:24:08,131 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.wizard.WizardDialog.createPageControls(WizardDialog.java:743)
+2021-03-07 03:24:08,131 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.wizard.WizardDialog.createContents(WizardDialog.java:635)
+2021-03-07 03:24:08,132 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.window.Window.create(Window.java:431)
+2021-03-07 03:24:08,133 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.dialogs.Dialog.create(Dialog.java:1094)
+2021-03-07 03:24:08,133 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.window.Window.open(Window.java:788)
+2021-03-07 03:24:08,134 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.informationcenter.WelcomePageAction.run(WelcomePageAction.java:54)
+2021-03-07 03:24:08,134 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.model.url.IntroURL.runAction(IntroURL.java:280)
+2021-03-07 03:24:08,135 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.model.url.IntroURL.doExecute(IntroURL.java:191)
+2021-03-07 03:24:08,135 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.model.url.IntroURL.lambda$0(IntroURL.java:146)
+2021-03-07 03:24:08,135 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:72)
+2021-03-07 03:24:08,136 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.model.url.IntroURL.execute(IntroURL.java:146)
+2021-03-07 03:24:08,136 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.presentations.BrowserIntroPartLocationListener.changing(BrowserIntroPartLocationListener.java:130)
+2021-03-07 03:24:08,137 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.browser.WebKit.webkit_decide_policy(WebKit.java:2442)
+2021-03-07 03:24:08,137 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.browser.WebKit.webViewProc(WebKit.java:740)
+2021-03-07 03:24:08,138 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.browser.WebKit.Proc(WebKit.java:661)
+2021-03-07 03:24:08,138 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.internal.gtk.OS.g_main_context_iteration(Native Method)
+2021-03-07 03:24:08,139 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4444)
+2021-03-07 03:24:08,139 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.mx.oss.core.awtswtbridge.SwtInputBlocker.open(SwtInputBlocker.java:55)
+2021-03-07 03:24:08,140 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.mx.oss.core.awtswtbridge.SwtInputBlocker.block(SwtInputBlocker.java:111)
+2021-03-07 03:24:08,140 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.mx.oss.core.awtswtbridge.AwtEnvironment.invokeAwt(AwtEnvironment.java:179)
+2021-03-07 03:24:08,140 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.mx.oss.core.awtswtbridge.AwtEnvironment.invokeAwtAndBlockSwt(AwtEnvironment.java:206)
+2021-03-07 03:24:08,141 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.mx.targetselector.TargetSelectorAdapter.launchMCUFinder(TargetSelectorAdapter.java:196)
+2021-03-07 03:24:08,141 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.mx.targetselector.TargetSelectorAdapter.addTargetSelector(TargetSelectorAdapter.java:147)
+2021-03-07 03:24:08,142 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.projectcreation.ui.wizard.TargetSetupPageAbstract.createControl(TargetSetupPageAbstract.java:127)
+2021-03-07 03:24:08,142 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.wizard.Wizard.createPageControls(Wizard.java:178)
+2021-03-07 03:24:08,143 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.wizard.WizardDialog.createPageControls(WizardDialog.java:743)
+2021-03-07 03:24:08,143 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.wizard.WizardDialog.createContents(WizardDialog.java:635)
+2021-03-07 03:24:08,144 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.window.Window.create(Window.java:431)
+2021-03-07 03:24:08,144 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.dialogs.Dialog.create(Dialog.java:1094)
+2021-03-07 03:24:08,144 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.window.Window.open(Window.java:788)
+2021-03-07 03:24:08,145 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.informationcenter.WelcomePageAction.run(WelcomePageAction.java:54)
+2021-03-07 03:24:08,145 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.model.url.IntroURL.runAction(IntroURL.java:280)
+2021-03-07 03:24:08,146 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.model.url.IntroURL.doExecute(IntroURL.java:191)
+2021-03-07 03:24:08,146 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.model.url.IntroURL.lambda$0(IntroURL.java:146)
+2021-03-07 03:24:08,147 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:72)
+2021-03-07 03:24:08,147 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.model.url.IntroURL.execute(IntroURL.java:146)
+2021-03-07 03:24:08,148 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.presentations.BrowserIntroPartLocationListener.changing(BrowserIntroPartLocationListener.java:130)
+2021-03-07 03:24:08,149 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.browser.WebKit.webkit_decide_policy(WebKit.java:2442)
+2021-03-07 03:24:08,149 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.browser.WebKit.webViewProc(WebKit.java:740)
+2021-03-07 03:24:08,150 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.browser.WebKit.Proc(WebKit.java:661)
+2021-03-07 03:24:08,151 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.internal.gtk.OS.g_main_context_iteration(Native Method)
+2021-03-07 03:24:08,151 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4444)
+2021-03-07 03:24:08,152 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1158)
+2021-03-07 03:24:08,152 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+2021-03-07 03:24:08,153 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1047)
+2021-03-07 03:24:08,153 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+2021-03-07 03:24:08,153 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:658)
+2021-03-07 03:24:08,154 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+2021-03-07 03:24:08,154 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:557)
+2021-03-07 03:24:08,155 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:154)
+2021-03-07 03:24:08,155 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:150)
+2021-03-07 03:24:08,156 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+2021-03-07 03:24:08,156 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:137)
+2021-03-07 03:24:08,156 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:107)
+2021-03-07 03:24:08,157 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+2021-03-07 03:24:08,157 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+2021-03-07 03:24:08,157 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2021-03-07 03:24:08,158 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+2021-03-07 03:24:08,158 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+2021-03-07 03:24:08,159 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+2021-03-07 03:24:08,159 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:657)
+2021-03-07 03:24:08,159 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
+2021-03-07 03:24:08,160 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.equinox.launcher.Main.run(Main.java:1447)
+2021-03-07 03:24:08,160 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.equinox.launcher.Main.main(Main.java:1420)
+2021-03-07 03:24:08,190 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] java.lang.NullPointerException
+2021-03-07 03:24:08,191 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.projectcreation.ui.wizard.TargetSetupPageAbstract.createControl(TargetSetupPageAbstract.java:131)
+2021-03-07 03:24:08,192 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.wizard.Wizard.createPageControls(Wizard.java:178)
+2021-03-07 03:24:08,192 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.wizard.WizardDialog.createPageControls(WizardDialog.java:743)
+2021-03-07 03:24:08,192 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.wizard.WizardDialog.createContents(WizardDialog.java:635)
+2021-03-07 03:24:08,193 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.window.Window.create(Window.java:431)
+2021-03-07 03:24:08,193 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.dialogs.Dialog.create(Dialog.java:1094)
+2021-03-07 03:24:08,193 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.window.Window.open(Window.java:788)
+2021-03-07 03:24:08,194 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.informationcenter.WelcomePageAction.run(WelcomePageAction.java:54)
+2021-03-07 03:24:08,194 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.model.url.IntroURL.runAction(IntroURL.java:280)
+2021-03-07 03:24:08,194 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.model.url.IntroURL.doExecute(IntroURL.java:191)
+2021-03-07 03:24:08,194 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.model.url.IntroURL.lambda$0(IntroURL.java:146)
+2021-03-07 03:24:08,195 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:72)
+2021-03-07 03:24:08,195 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.model.url.IntroURL.execute(IntroURL.java:146)
+2021-03-07 03:24:08,195 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.presentations.BrowserIntroPartLocationListener.changing(BrowserIntroPartLocationListener.java:130)
+2021-03-07 03:24:08,196 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.browser.WebKit.webkit_decide_policy(WebKit.java:2442)
+2021-03-07 03:24:08,196 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.browser.WebKit.webViewProc(WebKit.java:740)
+2021-03-07 03:24:08,196 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.browser.WebKit.Proc(WebKit.java:661)
+2021-03-07 03:24:08,197 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.internal.gtk.OS.g_main_context_iteration(Native Method)
+2021-03-07 03:24:08,197 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4444)
+2021-03-07 03:24:08,197 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.mx.oss.core.awtswtbridge.SwtInputBlocker.open(SwtInputBlocker.java:55)
+2021-03-07 03:24:08,198 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.mx.oss.core.awtswtbridge.SwtInputBlocker.block(SwtInputBlocker.java:111)
+2021-03-07 03:24:08,198 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.mx.oss.core.awtswtbridge.AwtEnvironment.invokeAwt(AwtEnvironment.java:179)
+2021-03-07 03:24:08,198 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.mx.oss.core.awtswtbridge.AwtEnvironment.invokeAwtAndBlockSwt(AwtEnvironment.java:206)
+2021-03-07 03:24:08,198 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.mx.targetselector.TargetSelectorAdapter.launchMCUFinder(TargetSelectorAdapter.java:196)
+2021-03-07 03:24:08,199 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.mx.targetselector.TargetSelectorAdapter.addTargetSelector(TargetSelectorAdapter.java:147)
+2021-03-07 03:24:08,199 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.projectcreation.ui.wizard.TargetSetupPageAbstract.createControl(TargetSetupPageAbstract.java:127)
+2021-03-07 03:24:08,199 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.wizard.Wizard.createPageControls(Wizard.java:178)
+2021-03-07 03:24:08,200 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.wizard.WizardDialog.createPageControls(WizardDialog.java:743)
+2021-03-07 03:24:08,200 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.wizard.WizardDialog.createContents(WizardDialog.java:635)
+2021-03-07 03:24:08,200 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.window.Window.create(Window.java:431)
+2021-03-07 03:24:08,201 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.dialogs.Dialog.create(Dialog.java:1094)
+2021-03-07 03:24:08,201 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.window.Window.open(Window.java:788)
+2021-03-07 03:24:08,201 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.informationcenter.WelcomePageAction.run(WelcomePageAction.java:54)
+2021-03-07 03:24:08,202 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.model.url.IntroURL.runAction(IntroURL.java:280)
+2021-03-07 03:24:08,202 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.model.url.IntroURL.doExecute(IntroURL.java:191)
+2021-03-07 03:24:08,202 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.model.url.IntroURL.lambda$0(IntroURL.java:146)
+2021-03-07 03:24:08,203 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:72)
+2021-03-07 03:24:08,203 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.model.url.IntroURL.execute(IntroURL.java:146)
+2021-03-07 03:24:08,203 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.presentations.BrowserIntroPartLocationListener.changing(BrowserIntroPartLocationListener.java:130)
+2021-03-07 03:24:08,204 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.browser.WebKit.webkit_decide_policy(WebKit.java:2442)
+2021-03-07 03:24:08,204 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.browser.WebKit.webViewProc(WebKit.java:740)
+2021-03-07 03:24:08,204 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.browser.WebKit.Proc(WebKit.java:661)
+2021-03-07 03:24:08,204 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.internal.gtk.OS.g_main_context_iteration(Native Method)
+2021-03-07 03:24:08,205 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4444)
+2021-03-07 03:24:08,205 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1158)
+2021-03-07 03:24:08,205 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+2021-03-07 03:24:08,206 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1047)
+2021-03-07 03:24:08,206 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+2021-03-07 03:24:08,206 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:658)
+2021-03-07 03:24:08,207 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+2021-03-07 03:24:08,207 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:557)
+2021-03-07 03:24:08,207 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:154)
+2021-03-07 03:24:08,207 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:150)
+2021-03-07 03:24:08,208 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+2021-03-07 03:24:08,208 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:137)
+2021-03-07 03:24:08,208 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:107)
+2021-03-07 03:24:08,209 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+2021-03-07 03:24:08,209 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+2021-03-07 03:24:08,209 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2021-03-07 03:24:08,209 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+2021-03-07 03:24:08,210 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+2021-03-07 03:24:08,210 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+2021-03-07 03:24:08,210 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:657)
+2021-03-07 03:24:08,211 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
+2021-03-07 03:24:08,211 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.equinox.launcher.Main.run(Main.java:1447)
+2021-03-07 03:24:08,211 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.equinox.launcher.Main.main(Main.java:1420)
+2021-03-07 03:24:08,266 [INFO] MainUpdater:2661 - connection check result : 10
+2021-03-07 03:24:08,329 [INFO] MainUpdater:2661 - connection check result : 10
+2021-03-07 03:24:08,389 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] java.lang.NullPointerException
+2021-03-07 03:24:08,389 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.projectcreation.ui.wizard.TargetSetupPageAbstract.createControl(TargetSetupPageAbstract.java:131)
+2021-03-07 03:24:08,390 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.wizard.Wizard.createPageControls(Wizard.java:178)
+2021-03-07 03:24:08,390 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.wizard.WizardDialog.createPageControls(WizardDialog.java:743)
+2021-03-07 03:24:08,390 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.wizard.WizardDialog.createContents(WizardDialog.java:635)
+2021-03-07 03:24:08,391 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.window.Window.create(Window.java:431)
+2021-03-07 03:24:08,391 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.dialogs.Dialog.create(Dialog.java:1094)
+2021-03-07 03:24:08,392 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.window.Window.open(Window.java:788)
+2021-03-07 03:24:08,392 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.informationcenter.WelcomePageAction.run(WelcomePageAction.java:54)
+2021-03-07 03:24:08,392 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.model.url.IntroURL.runAction(IntroURL.java:280)
+2021-03-07 03:24:08,392 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.model.url.IntroURL.doExecute(IntroURL.java:191)
+2021-03-07 03:24:08,393 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.model.url.IntroURL.lambda$0(IntroURL.java:146)
+2021-03-07 03:24:08,393 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:72)
+2021-03-07 03:24:08,393 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.model.url.IntroURL.execute(IntroURL.java:146)
+2021-03-07 03:24:08,394 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.presentations.BrowserIntroPartLocationListener.changing(BrowserIntroPartLocationListener.java:130)
+2021-03-07 03:24:08,394 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.browser.WebKit.webkit_decide_policy(WebKit.java:2442)
+2021-03-07 03:24:08,394 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.browser.WebKit.webViewProc(WebKit.java:740)
+2021-03-07 03:24:08,395 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.browser.WebKit.Proc(WebKit.java:661)
+2021-03-07 03:24:08,395 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.internal.gtk.OS.g_main_context_iteration(Native Method)
+2021-03-07 03:24:08,395 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Shell.setVisible(Shell.java:2778)
+2021-03-07 03:24:08,396 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Shell.open(Shell.java:1923)
+2021-03-07 03:24:08,396 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.window.Window.open(Window.java:795)
+2021-03-07 03:24:08,396 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.dialogs.ProgressMonitorDialog.open(ProgressMonitorDialog.java:632)
+2021-03-07 03:24:08,397 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.dialogs.ProgressMonitorDialog.aboutToRun(ProgressMonitorDialog.java:541)
+2021-03-07 03:24:08,397 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.dialogs.ProgressMonitorDialog.run(ProgressMonitorDialog.java:466)
+2021-03-07 03:24:08,398 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.mx.targetselector.TargetSelectorAdapter.launchMCUFinder(TargetSelectorAdapter.java:235)
+2021-03-07 03:24:08,398 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.mx.targetselector.TargetSelectorAdapter.addTargetSelector(TargetSelectorAdapter.java:147)
+2021-03-07 03:24:08,399 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.projectcreation.ui.wizard.TargetSetupPageAbstract.createControl(TargetSetupPageAbstract.java:127)
+2021-03-07 03:24:08,399 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.wizard.Wizard.createPageControls(Wizard.java:178)
+2021-03-07 03:24:08,400 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.wizard.WizardDialog.createPageControls(WizardDialog.java:743)
+2021-03-07 03:24:08,400 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.wizard.WizardDialog.createContents(WizardDialog.java:635)
+2021-03-07 03:24:08,401 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.window.Window.create(Window.java:431)
+2021-03-07 03:24:08,401 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.dialogs.Dialog.create(Dialog.java:1094)
+2021-03-07 03:24:08,401 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.window.Window.open(Window.java:788)
+2021-03-07 03:24:08,402 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.informationcenter.WelcomePageAction.run(WelcomePageAction.java:54)
+2021-03-07 03:24:08,402 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.model.url.IntroURL.runAction(IntroURL.java:280)
+2021-03-07 03:24:08,402 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.model.url.IntroURL.doExecute(IntroURL.java:191)
+2021-03-07 03:24:08,403 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.model.url.IntroURL.lambda$0(IntroURL.java:146)
+2021-03-07 03:24:08,403 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:72)
+2021-03-07 03:24:08,403 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.model.url.IntroURL.execute(IntroURL.java:146)
+2021-03-07 03:24:08,403 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.presentations.BrowserIntroPartLocationListener.changing(BrowserIntroPartLocationListener.java:130)
+2021-03-07 03:24:08,404 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.browser.WebKit.webkit_decide_policy(WebKit.java:2442)
+2021-03-07 03:24:08,404 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.browser.WebKit.webViewProc(WebKit.java:740)
+2021-03-07 03:24:08,404 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.browser.WebKit.Proc(WebKit.java:661)
+2021-03-07 03:24:08,404 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.internal.gtk.OS.g_main_context_iteration(Native Method)
+2021-03-07 03:24:08,405 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4444)
+2021-03-07 03:24:08,405 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.mx.oss.core.awtswtbridge.SwtInputBlocker.open(SwtInputBlocker.java:55)
+2021-03-07 03:24:08,405 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.mx.oss.core.awtswtbridge.SwtInputBlocker.block(SwtInputBlocker.java:111)
+2021-03-07 03:24:08,406 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.mx.oss.core.awtswtbridge.AwtEnvironment.invokeAwt(AwtEnvironment.java:179)
+2021-03-07 03:24:08,406 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.mx.oss.core.awtswtbridge.AwtEnvironment.invokeAwtAndBlockSwt(AwtEnvironment.java:206)
+2021-03-07 03:24:08,406 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.mx.targetselector.TargetSelectorAdapter.launchMCUFinder(TargetSelectorAdapter.java:196)
+2021-03-07 03:24:08,407 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.mx.targetselector.TargetSelectorAdapter.addTargetSelector(TargetSelectorAdapter.java:147)
+2021-03-07 03:24:08,407 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.projectcreation.ui.wizard.TargetSetupPageAbstract.createControl(TargetSetupPageAbstract.java:127)
+2021-03-07 03:24:08,407 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.wizard.Wizard.createPageControls(Wizard.java:178)
+2021-03-07 03:24:08,408 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.wizard.WizardDialog.createPageControls(WizardDialog.java:743)
+2021-03-07 03:24:08,408 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.wizard.WizardDialog.createContents(WizardDialog.java:635)
+2021-03-07 03:24:08,408 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.window.Window.create(Window.java:431)
+2021-03-07 03:24:08,409 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.dialogs.Dialog.create(Dialog.java:1094)
+2021-03-07 03:24:08,409 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.window.Window.open(Window.java:788)
+2021-03-07 03:24:08,409 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.informationcenter.WelcomePageAction.run(WelcomePageAction.java:54)
+2021-03-07 03:24:08,410 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.model.url.IntroURL.runAction(IntroURL.java:280)
+2021-03-07 03:24:08,410 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.model.url.IntroURL.doExecute(IntroURL.java:191)
+2021-03-07 03:24:08,410 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.model.url.IntroURL.lambda$0(IntroURL.java:146)
+2021-03-07 03:24:08,411 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:72)
+2021-03-07 03:24:08,411 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.model.url.IntroURL.execute(IntroURL.java:146)
+2021-03-07 03:24:08,411 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.presentations.BrowserIntroPartLocationListener.changing(BrowserIntroPartLocationListener.java:130)
+2021-03-07 03:24:08,411 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.browser.WebKit.webkit_decide_policy(WebKit.java:2442)
+2021-03-07 03:24:08,412 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.browser.WebKit.webViewProc(WebKit.java:740)
+2021-03-07 03:24:08,412 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.browser.WebKit.Proc(WebKit.java:661)
+2021-03-07 03:24:08,412 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.internal.gtk.OS.g_main_context_iteration(Native Method)
+2021-03-07 03:24:08,413 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4444)
+2021-03-07 03:24:08,413 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1158)
+2021-03-07 03:24:08,413 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+2021-03-07 03:24:08,414 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1047)
+2021-03-07 03:24:08,414 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+2021-03-07 03:24:08,414 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:658)
+2021-03-07 03:24:08,415 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+2021-03-07 03:24:08,415 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:557)
+2021-03-07 03:24:08,415 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:154)
+2021-03-07 03:24:08,415 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:150)
+2021-03-07 03:24:08,416 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+2021-03-07 03:24:08,416 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:137)
+2021-03-07 03:24:08,416 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:107)
+2021-03-07 03:24:08,417 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+2021-03-07 03:24:08,417 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+2021-03-07 03:24:08,417 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2021-03-07 03:24:08,418 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+2021-03-07 03:24:08,418 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+2021-03-07 03:24:08,418 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+2021-03-07 03:24:08,419 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:657)
+2021-03-07 03:24:08,419 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
+2021-03-07 03:24:08,419 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.equinox.launcher.Main.run(Main.java:1447)
+2021-03-07 03:24:08,420 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.equinox.launcher.Main.main(Main.java:1420)
+2021-03-07 03:24:08,441 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] java.lang.NullPointerException
+2021-03-07 03:24:08,442 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.projectcreation.ui.wizard.TargetSetupPageAbstract.createControl(TargetSetupPageAbstract.java:131)
+2021-03-07 03:24:08,442 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.wizard.Wizard.createPageControls(Wizard.java:178)
+2021-03-07 03:24:08,443 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.wizard.WizardDialog.createPageControls(WizardDialog.java:743)
+2021-03-07 03:24:08,443 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.wizard.WizardDialog.createContents(WizardDialog.java:635)
+2021-03-07 03:24:08,444 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.window.Window.create(Window.java:431)
+2021-03-07 03:24:08,444 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.dialogs.Dialog.create(Dialog.java:1094)
+2021-03-07 03:24:08,444 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.window.Window.open(Window.java:788)
+2021-03-07 03:24:08,444 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.informationcenter.WelcomePageAction.run(WelcomePageAction.java:54)
+2021-03-07 03:24:08,445 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.model.url.IntroURL.runAction(IntroURL.java:280)
+2021-03-07 03:24:08,445 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.model.url.IntroURL.doExecute(IntroURL.java:191)
+2021-03-07 03:24:08,445 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.model.url.IntroURL.lambda$0(IntroURL.java:146)
+2021-03-07 03:24:08,446 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:72)
+2021-03-07 03:24:08,446 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.model.url.IntroURL.execute(IntroURL.java:146)
+2021-03-07 03:24:08,446 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.presentations.BrowserIntroPartLocationListener.changing(BrowserIntroPartLocationListener.java:130)
+2021-03-07 03:24:08,446 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.browser.WebKit.webkit_decide_policy(WebKit.java:2442)
+2021-03-07 03:24:08,447 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.browser.WebKit.webViewProc(WebKit.java:740)
+2021-03-07 03:24:08,447 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.browser.WebKit.Proc(WebKit.java:661)
+2021-03-07 03:24:08,447 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.internal.gtk.OS.g_main_context_iteration(Native Method)
+2021-03-07 03:24:08,448 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4444)
+2021-03-07 03:24:08,448 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.mx.oss.core.awtswtbridge.SwtInputBlocker.open(SwtInputBlocker.java:55)
+2021-03-07 03:24:08,448 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.mx.oss.core.awtswtbridge.SwtInputBlocker.block(SwtInputBlocker.java:111)
+2021-03-07 03:24:08,448 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.mx.oss.core.awtswtbridge.AwtEnvironment.invokeAwt(AwtEnvironment.java:179)
+2021-03-07 03:24:08,449 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.mx.oss.core.awtswtbridge.AwtEnvironment.invokeAwtAndBlockSwt(AwtEnvironment.java:206)
+2021-03-07 03:24:08,449 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.mx.targetselector.TargetSelectorAdapter.launchMCUFinder(TargetSelectorAdapter.java:196)
+2021-03-07 03:24:08,449 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.mx.targetselector.TargetSelectorAdapter.addTargetSelector(TargetSelectorAdapter.java:147)
+2021-03-07 03:24:08,449 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.projectcreation.ui.wizard.TargetSetupPageAbstract.createControl(TargetSetupPageAbstract.java:127)
+2021-03-07 03:24:08,450 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.wizard.Wizard.createPageControls(Wizard.java:178)
+2021-03-07 03:24:08,450 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.wizard.WizardDialog.createPageControls(WizardDialog.java:743)
+2021-03-07 03:24:08,450 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.wizard.WizardDialog.createContents(WizardDialog.java:635)
+2021-03-07 03:24:08,450 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.window.Window.create(Window.java:431)
+2021-03-07 03:24:08,450 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.dialogs.Dialog.create(Dialog.java:1094)
+2021-03-07 03:24:08,451 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.window.Window.open(Window.java:788)
+2021-03-07 03:24:08,451 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.informationcenter.WelcomePageAction.run(WelcomePageAction.java:54)
+2021-03-07 03:24:08,451 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.model.url.IntroURL.runAction(IntroURL.java:280)
+2021-03-07 03:24:08,451 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.model.url.IntroURL.doExecute(IntroURL.java:191)
+2021-03-07 03:24:08,452 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.model.url.IntroURL.lambda$0(IntroURL.java:146)
+2021-03-07 03:24:08,452 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:72)
+2021-03-07 03:24:08,452 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.model.url.IntroURL.execute(IntroURL.java:146)
+2021-03-07 03:24:08,452 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.presentations.BrowserIntroPartLocationListener.changing(BrowserIntroPartLocationListener.java:130)
+2021-03-07 03:24:08,453 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.browser.WebKit.webkit_decide_policy(WebKit.java:2442)
+2021-03-07 03:24:08,453 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.browser.WebKit.webViewProc(WebKit.java:740)
+2021-03-07 03:24:08,453 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.browser.WebKit.Proc(WebKit.java:661)
+2021-03-07 03:24:08,453 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.internal.gtk.OS.g_main_context_iteration(Native Method)
+2021-03-07 03:24:08,454 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4444)
+2021-03-07 03:24:08,454 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1158)
+2021-03-07 03:24:08,454 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+2021-03-07 03:24:08,454 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1047)
+2021-03-07 03:24:08,454 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+2021-03-07 03:24:08,455 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:658)
+2021-03-07 03:24:08,455 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+2021-03-07 03:24:08,455 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:557)
+2021-03-07 03:24:08,455 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:154)
+2021-03-07 03:24:08,456 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:150)
+2021-03-07 03:24:08,456 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+2021-03-07 03:24:08,456 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:137)
+2021-03-07 03:24:08,456 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:107)
+2021-03-07 03:24:08,457 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+2021-03-07 03:24:08,457 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+2021-03-07 03:24:08,457 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2021-03-07 03:24:08,457 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+2021-03-07 03:24:08,458 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+2021-03-07 03:24:08,458 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+2021-03-07 03:24:08,458 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:657)
+2021-03-07 03:24:08,458 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
+2021-03-07 03:24:08,459 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.equinox.launcher.Main.run(Main.java:1447)
+2021-03-07 03:24:08,459 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.equinox.launcher.Main.main(Main.java:1420)
+2021-03-07 03:24:08,922 [INFO] DbMcusJson:94 - JSON generation date=Mon Feb 08 08:35:07 EST 2021 (1612791307)
+2021-03-07 03:24:09,836 [INFO] DbMcus:175 - Found 1906 MCUs (1866 are supported by CubeMX, 1866 are visible in CubeMX)
+2021-03-07 03:24:09,836 [INFO] ApiDb:242 - User favorites file not found: /home/robbynelson/.stm32cubeide/favorites.mcus.txt
+2021-03-07 03:24:09,836 [INFO] DbMcus:187 - Set 0 / 0 favorites MCUs
+2021-03-07 03:24:10,330 [INFO] MainUpdater:2661 - connection check result : 10
+2021-03-07 03:24:10,385 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] java.lang.NullPointerException
+2021-03-07 03:24:10,386 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.projectcreation.ui.wizard.TargetSetupPageAbstract.createControl(TargetSetupPageAbstract.java:131)
+2021-03-07 03:24:10,386 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.wizard.Wizard.createPageControls(Wizard.java:178)
+2021-03-07 03:24:10,388 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.wizard.WizardDialog.createPageControls(WizardDialog.java:743)
+2021-03-07 03:24:10,389 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.wizard.WizardDialog.createContents(WizardDialog.java:635)
+2021-03-07 03:24:10,389 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.window.Window.create(Window.java:431)
+2021-03-07 03:24:10,390 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.dialogs.Dialog.create(Dialog.java:1094)
+2021-03-07 03:24:10,390 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.window.Window.open(Window.java:788)
+2021-03-07 03:24:10,390 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.informationcenter.WelcomePageAction.run(WelcomePageAction.java:54)
+2021-03-07 03:24:10,391 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.model.url.IntroURL.runAction(IntroURL.java:280)
+2021-03-07 03:24:10,391 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.model.url.IntroURL.doExecute(IntroURL.java:191)
+2021-03-07 03:24:10,391 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.model.url.IntroURL.lambda$0(IntroURL.java:146)
+2021-03-07 03:24:10,392 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:72)
+2021-03-07 03:24:10,392 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.model.url.IntroURL.execute(IntroURL.java:146)
+2021-03-07 03:24:10,393 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.presentations.BrowserIntroPartLocationListener.changing(BrowserIntroPartLocationListener.java:130)
+2021-03-07 03:24:10,393 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.browser.WebKit.webkit_decide_policy(WebKit.java:2442)
+2021-03-07 03:24:10,393 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.browser.WebKit.webViewProc(WebKit.java:740)
+2021-03-07 03:24:10,394 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.browser.WebKit.Proc(WebKit.java:661)
+2021-03-07 03:24:10,394 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.internal.gtk.OS.g_main_context_iteration(Native Method)
+2021-03-07 03:24:10,394 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4444)
+2021-03-07 03:24:10,395 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.mx.oss.core.awtswtbridge.SwtInputBlocker.open(SwtInputBlocker.java:55)
+2021-03-07 03:24:10,395 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.mx.oss.core.awtswtbridge.SwtInputBlocker.block(SwtInputBlocker.java:111)
+2021-03-07 03:24:10,396 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.mx.oss.core.awtswtbridge.AwtEnvironment.invokeAwt(AwtEnvironment.java:179)
+2021-03-07 03:24:10,396 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.mx.oss.core.awtswtbridge.AwtEnvironment.invokeAwtAndBlockSwt(AwtEnvironment.java:206)
+2021-03-07 03:24:10,396 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.mx.targetselector.TargetSelectorAdapter.launchMCUFinder(TargetSelectorAdapter.java:196)
+2021-03-07 03:24:10,397 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.mx.targetselector.TargetSelectorAdapter.addTargetSelector(TargetSelectorAdapter.java:147)
+2021-03-07 03:24:10,397 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.projectcreation.ui.wizard.TargetSetupPageAbstract.createControl(TargetSetupPageAbstract.java:127)
+2021-03-07 03:24:10,397 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.wizard.Wizard.createPageControls(Wizard.java:178)
+2021-03-07 03:24:10,398 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.wizard.WizardDialog.createPageControls(WizardDialog.java:743)
+2021-03-07 03:24:10,398 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.wizard.WizardDialog.createContents(WizardDialog.java:635)
+2021-03-07 03:24:10,398 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.window.Window.create(Window.java:431)
+2021-03-07 03:24:10,399 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.dialogs.Dialog.create(Dialog.java:1094)
+2021-03-07 03:24:10,399 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.window.Window.open(Window.java:788)
+2021-03-07 03:24:10,400 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.informationcenter.WelcomePageAction.run(WelcomePageAction.java:54)
+2021-03-07 03:24:10,400 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.model.url.IntroURL.runAction(IntroURL.java:280)
+2021-03-07 03:24:10,400 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.model.url.IntroURL.doExecute(IntroURL.java:191)
+2021-03-07 03:24:10,401 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.model.url.IntroURL.lambda$0(IntroURL.java:146)
+2021-03-07 03:24:10,401 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:72)
+2021-03-07 03:24:10,401 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.model.url.IntroURL.execute(IntroURL.java:146)
+2021-03-07 03:24:10,402 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.intro.impl.presentations.BrowserIntroPartLocationListener.changing(BrowserIntroPartLocationListener.java:130)
+2021-03-07 03:24:10,402 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.browser.WebKit.webkit_decide_policy(WebKit.java:2442)
+2021-03-07 03:24:10,403 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.browser.WebKit.webViewProc(WebKit.java:740)
+2021-03-07 03:24:10,403 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.browser.WebKit.Proc(WebKit.java:661)
+2021-03-07 03:24:10,403 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.internal.gtk.OS.g_main_context_iteration(Native Method)
+2021-03-07 03:24:10,404 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4444)
+2021-03-07 03:24:10,404 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1158)
+2021-03-07 03:24:10,405 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+2021-03-07 03:24:10,405 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1047)
+2021-03-07 03:24:10,405 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+2021-03-07 03:24:10,406 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:658)
+2021-03-07 03:24:10,406 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+2021-03-07 03:24:10,406 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:557)
+2021-03-07 03:24:10,407 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:154)
+2021-03-07 03:24:10,407 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:150)
+2021-03-07 03:24:10,407 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+2021-03-07 03:24:10,408 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:137)
+2021-03-07 03:24:10,408 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:107)
+2021-03-07 03:24:10,408 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+2021-03-07 03:24:10,409 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+2021-03-07 03:24:10,409 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2021-03-07 03:24:10,409 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+2021-03-07 03:24:10,410 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+2021-03-07 03:24:10,410 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+2021-03-07 03:24:10,410 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:657)
+2021-03-07 03:24:10,411 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
+2021-03-07 03:24:10,411 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.equinox.launcher.Main.run(Main.java:1447)
+2021-03-07 03:24:10,411 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.equinox.launcher.Main.main(Main.java:1420)
+2021-03-07 03:24:10,439 [WARN] DetailPanel:315 - Failed to get advertising image, set to default
+2021-03-07 03:24:11,113 [INFO] DbBoardsPdsc:90 - Found 46 items
+2021-03-07 03:24:11,121 [INFO] DbBoardsPdsc:90 - Found 41 items
+2021-03-07 03:24:11,122 [INFO] DbBoardsPdsc:90 - Found 2 items
+2021-03-07 03:24:11,124 [INFO] DbBoardsPdsc:90 - Found 5 items
+2021-03-07 03:24:11,125 [INFO] DbBoardsPdsc:90 - Found 1 items
+2021-03-07 03:24:11,127 [INFO] DbBoardsPdsc:90 - Found 24 items
+2021-03-07 03:24:11,129 [INFO] DbBoardsPdsc:90 - Found 9 items
+2021-03-07 03:24:11,133 [INFO] DbBoardsPdsc:90 - Found 33 items
+2021-03-07 03:24:11,137 [WARN] DbBoardsPdsc:254 - Board STM32H7B3I-DK: unknown feature type=Audio, name=, username=Audio stereo codec with Headphone Amp (CS42L51-CNZ), n=1
+2021-03-07 03:24:11,137 [WARN] DbBoardsPdsc:254 - Board STM32H735G-DK: unknown feature type=Audio, name=, username=Audio stereo codec with Headphone Amp (WM8994ECS/R), n=1
+2021-03-07 03:24:11,138 [WARN] DbBoardsPdsc:254 - Board STM32WB5MM-DK: unknown feature type=, name=, username=Time-of-Flight and gesture-detection sensor, n=1
+2021-03-07 03:24:11,138 [WARN] DbBoardsPdsc:254 - Board STM32WB5MM-DK: unknown feature type=, name=, username=3 push-buttons (2 users and 1 reset) and 1 touch key button, n=1
+2021-03-07 03:24:11,162 [WARN] DbBoardsPdsc:254 - Board STM32WB5MM-DK: unknown feature type=, name=, username=Flexible power-supply options: ST-LINK/V2-1 USB connector, 5 V delivered by ARDUINOÂ® or external connector, USB charger, or USB power, n=1
+2021-03-07 03:24:11,163 [WARN] DbBoardsPdsc:254 - Board STM32WB5MM-DK: unknown feature type=, name=, username=On-board ST-LINK/V2-1 debugger/programmer with USB re-enumeration capability: Virtual COM port and debug port, n=1
+2021-03-07 03:24:11,163 [WARN] DbBoardsPdsc:254 - Board STM32WB5MM-DK: unknown feature type=, name=, username=Comprehensive free software libraries and examples available with the STM32CubeWB MCU Package, n=1
+2021-03-07 03:24:11,163 [WARN] DbBoardsPdsc:254 - Board STM32WB5MM-DK: unknown feature type=, name=, username=Support of a wide choice of Integrated Development Environments (IDEs) including IAR Embedded WorkbenchÂ®, MDK-ARM, and STM32CubeIDE, n=1
+2021-03-07 03:24:11,165 [WARN] DbBoardsPdsc:254 - Board STM32H7B3I-EVAL: unknown feature type=Audio, name=, username=Multi-Channel Audio Codec (CS42L51-CNZ), n=1
+2021-03-07 03:24:11,165 [WARN] DbBoardsPdsc:254 - Board STM32H7B3I-EVAL: unknown feature type=Meter, name=, username=Power-metering and Temperature-monitoring with sigma-delta modulators, n=1
+2021-03-07 03:24:11,165 [WARN] DbBoardsPdsc:254 - Board STM32H7B3I-EVAL: unknown feature type=Motor, name=, username=Motor Control, n=1
+2021-03-07 03:24:11,171 [WARN] DbBoardsPdsc:254 - Board NUCLEO-WB15CC: unknown feature type=, name=, username=Three user LEDs, n=1
+2021-03-07 03:24:11,171 [WARN] DbBoardsPdsc:254 - Board NUCLEO-WB15CC: unknown feature type=, name=, username=One reset and three user push-buttons, n=1
+2021-03-07 03:24:11,171 [WARN] DbBoardsPdsc:254 - Board NUCLEO-WB15CC: unknown feature type=, name=, username=Arduino Uno V3 expansion connector, n=1
+2021-03-07 03:24:11,171 [WARN] DbBoardsPdsc:254 - Board NUCLEO-WB15CC: unknown feature type=, name=, username=ST morpho extension pin headers for full access to all STM32WB I/Os, n=1
+2021-03-07 03:24:11,171 [WARN] DbBoardsPdsc:254 - Board NUCLEO-WB15CC: unknown feature type=, name=, username=Integrated PCB antenna and SMA connector footprint, n=1
+2021-03-07 03:24:11,171 [WARN] DbBoardsPdsc:254 - Board NUCLEO-WB15CC: unknown feature type=, name=, username=Flexible power-supply options: ST-LINK, USB VBUS, or external sources, n=1
+2021-03-07 03:24:11,172 [WARN] DbBoardsPdsc:254 - Board NUCLEO-WB15CC: unknown feature type=, name=, username=On-board footprint to mount a CR2032 battery socket, n=1
+2021-03-07 03:24:11,172 [WARN] DbBoardsPdsc:254 - Board NUCLEO-WB15CC: unknown feature type=, name=, username=On-board ST-LINK/V2-1 debugger/programmer with USB re-enumeration capability: mass storage, Virtual COM port, and debug port, n=1
+2021-03-07 03:24:11,172 [WARN] DbBoardsPdsc:254 - Board NUCLEO-WB15CC: unknown feature type=, name=, username=Comprehensive free software libraries and examples available with the STM32CubeWB MCU Package, n=1
+2021-03-07 03:24:11,172 [WARN] DbBoardsPdsc:254 - Board NUCLEO-WB15CC: unknown feature type=, name=, username=Support of a wide choice of Integrated Development Environments (IDEs) including IAR Embedded Workbench, MDK-ARM, STM32CubeIDE, and Mbed Studio, n=1
+2021-03-07 03:24:11,201 [INFO] DbBoardsJson:87 - JSON generation date=Thu Feb 04 11:53:45 EST 2021 (1612457625)
+2021-03-07 03:24:11,211 [INFO] DbBoards:117 - Found 161 boards (158 are supported by CubeMX)
+2021-03-07 03:24:11,231 [INFO] DbBoardsDocs:143 - JSON generation date=Mon Feb 08 08:35:07 EST 2021 (1612791307)
+2021-03-07 03:24:11,261 [INFO] DbBoardsDocs:79 - Found 193 boards documents
+2021-03-07 03:24:11,262 [WARN] DbBoards:127 - board B-L462E-CELL1 has no document id list !
+2021-03-07 03:24:11,262 [WARN] DbBoards:127 - board B-L475E-IOT01A2 has no document id list !
+2021-03-07 03:24:11,263 [WARN] DbBoards:127 - board NUCLEO-G0B1RE has no document id list !
+2021-03-07 03:24:11,264 [WARN] DbBoards:127 - board NUCLEO-H743ZI2 has no document id list !
+2021-03-07 03:24:11,265 [WARN] DbBoards:127 - board NUCLEO-L4A6ZG has no document id list !
+2021-03-07 03:24:11,265 [WARN] DbBoards:127 - board NUCLEO-WB15CC has no document id list !
+2021-03-07 03:24:11,265 [WARN] DbBoards:127 - board NUCLEO-WB55RG has no document id list !
+2021-03-07 03:24:11,265 [WARN] DbBoards:127 - board NUCLEO-WL55JC2 has no document id list !
+2021-03-07 03:24:11,266 [WARN] DbBoards:127 - board P-NUCLEO-WB55-Nucleo has no document id list !
+2021-03-07 03:24:11,266 [WARN] DbBoards:127 - board P-NUCLEO-WB55-USBDongle has no document id list !
+2021-03-07 03:24:11,266 [WARN] DbBoards:127 - board STEVAL-BFA001V1B has no document id list !
+2021-03-07 03:24:11,266 [WARN] DbBoards:127 - board STEVAL-BFA001V2B has no document id list !
+2021-03-07 03:24:11,266 [WARN] DbBoards:127 - board STEVAL-IDP005V1 has no document id list !
+2021-03-07 03:24:11,266 [WARN] DbBoards:127 - board STEVAL-IDP005V2 has no document id list !
+2021-03-07 03:24:11,266 [WARN] DbBoards:127 - board STEVAL-MKSBOX1V1 has no document id list !
+2021-03-07 03:24:11,266 [WARN] DbBoards:127 - board STEVAL-STWINKT1 has no document id list !
+2021-03-07 03:24:11,266 [WARN] DbBoards:127 - board STEVAL-STWINKT1B has no document id list !
+2021-03-07 03:24:11,267 [WARN] DbBoards:127 - board STM32F401C-DISCO has no document id list !
+2021-03-07 03:24:11,268 [WARN] DbBoards:127 - board STM32F769I-DISC1 has no document id list !
+2021-03-07 03:24:11,268 [WARN] DbBoards:127 - board STM32G0C1E-EV has no document id list !
+2021-03-07 03:24:11,269 [WARN] DbBoards:127 - board STM32G474E-EVAL1 has no document id list !
+2021-03-07 03:24:11,269 [WARN] DbBoards:127 - board STM32H743I-EVAL2 has no document id list !
+2021-03-07 03:24:11,269 [WARN] DbBoards:127 - board STM32H747I-DISC1 has no document id list !
+2021-03-07 03:24:11,269 [WARN] DbBoards:127 - board STM32H753I-EVAL2 has no document id list !
+2021-03-07 03:24:11,270 [WARN] DbBoards:127 - board STM32L-DISCOVERY has no document id list !
+2021-03-07 03:24:11,271 [WARN] DbBoards:127 - board STM32MP157A-DK1 has no document id list !
+2021-03-07 03:24:11,271 [WARN] DbBoards:127 - board STM32MP157F-DK2 has no document id list !
+2021-03-07 03:24:11,271 [WARN] DbBoards:127 - board STM32MP157F-EV1 has no document id list !
+2021-03-07 03:24:11,271 [WARN] DbBoards:127 - board STM32WB5MM-DK has no document id list !
+2021-03-07 03:24:12,656 [INFO] ApiDb:242 - User favorites file not found: /home/robbynelson/.stm32cubeide/favorites.boards.txt
+2021-03-07 03:24:12,657 [INFO] DbBoards:206 - Set 0 / 0 favorites Boards
+2021-03-07 03:24:13,100 [INFO] CrossSelectorPresenter:1330 - Cross Selector saved comparison directory: /home/robbynelson/.stmcufinder/plugins/mcufinder/mcu/cs_comparisons_mx
+2021-03-07 03:24:13,101 [INFO] MultiScanPanel:200 - Auto-refresh data requested => check proxy status ongoing
+2021-03-07 03:24:13,101 [INFO] FinderPluginLoader:87 - Searching for filters in installed packs
+2021-03-07 03:24:13,470 [WARN] DetailPanel:315 - Failed to get advertising image, set to default
+2021-03-07 03:24:14,130 [INFO] CrossSelectorPresenter:1330 - Cross Selector saved comparison directory: /home/robbynelson/.stmcufinder/plugins/mcufinder/mcu/cs_comparisons_mx
+2021-03-07 03:24:14,131 [INFO] MultiScanPanel:200 - Auto-refresh data requested => check proxy status ongoing
+2021-03-07 03:24:14,131 [INFO] FinderPluginLoader:87 - Searching for filters in installed packs
+2021-03-07 03:24:14,413 [WARN] DetailPanel:315 - Failed to get advertising image, set to default
+2021-03-07 03:24:14,996 [INFO] CrossSelectorPresenter:1330 - Cross Selector saved comparison directory: /home/robbynelson/.stmcufinder/plugins/mcufinder/mcu/cs_comparisons_mx
+2021-03-07 03:24:14,996 [INFO] MultiScanPanel:200 - Auto-refresh data requested => check proxy status ongoing
+2021-03-07 03:24:14,997 [INFO] FinderPluginLoader:87 - Searching for filters in installed packs
+2021-03-07 03:24:15,165 [WARN] DetailPanel:315 - Failed to get advertising image, set to default
+2021-03-07 03:24:15,703 [INFO] CrossSelectorPresenter:1330 - Cross Selector saved comparison directory: /home/robbynelson/.stmcufinder/plugins/mcufinder/mcu/cs_comparisons_mx
+2021-03-07 03:24:15,704 [INFO] MultiScanPanel:200 - Auto-refresh data requested => check proxy status ongoing
+2021-03-07 03:24:15,704 [INFO] FinderPluginLoader:87 - Searching for filters in installed packs
+2021-03-07 03:24:15,903 [WARN] DetailPanel:315 - Failed to get advertising image, set to default
+2021-03-07 03:24:16,247 [INFO] CrossSelectorPresenter:1330 - Cross Selector saved comparison directory: /home/robbynelson/.stmcufinder/plugins/mcufinder/mcu/cs_comparisons_mx
+2021-03-07 03:24:16,248 [INFO] MultiScanPanel:200 - Auto-refresh data requested => check proxy status ongoing
+2021-03-07 03:24:16,248 [INFO] FinderPluginLoader:87 - Searching for filters in installed packs
+2021-03-07 03:24:16,300 [INFO] MainUpdater:2661 - connection check result : 10
+2021-03-07 03:24:16,559 [WARN] DetailPanel:315 - Failed to get advertising image, set to default
+2021-03-07 03:24:17,185 [INFO] CrossSelectorPresenter:1330 - Cross Selector saved comparison directory: /home/robbynelson/.stmcufinder/plugins/mcufinder/mcu/cs_comparisons_mx
+2021-03-07 03:24:17,188 [INFO] MultiScanPanel:200 - Auto-refresh data requested => check proxy status ongoing
+2021-03-07 03:24:17,190 [INFO] FinderPluginLoader:87 - Searching for filters in installed packs
+2021-03-07 03:24:17,468 [WARN] DetailPanel:315 - Failed to get advertising image, set to default
+2021-03-07 03:24:39,962 [INFO] DbMcusDocs:143 - JSON generation date=Mon Feb 08 08:35:07 EST 2021 (1612791307)
+2021-03-07 03:24:40,154 [INFO] DbMcusDocs:79 - Found 617 MCUs documents
+2021-03-07 03:25:14,576 [INFO] MainUpdater:2661 - connection check result : 10
+2021-03-07 03:25:14,577 [INFO] MainUpdater:2661 - connection check result : 10
+2021-03-07 03:25:14,631 [INFO] MicroXplorer:442 - Change Database Path : 
+2021-03-07 03:25:14,631 [INFO] MicroXplorer:472 - Change Database Version : DB.6.0.20
+2021-03-07 03:25:14,631 [WARN] ThirdParty:796 - waiting for thirdparty lock release [close project]
+2021-03-07 03:25:14,632 [INFO] ThirdParty:798 - entering critical section [close project]
+2021-03-07 03:25:14,632 [INFO] ThirdParty:809 - exiting critical section [close project]
+2021-03-07 03:25:14,634 [INFO] PinOutPanel:1435 - setPackage(No Configuration,No Configuration)
+2021-03-07 03:25:14,635 [INFO] UtilMem:74 - Begin LoadConfig() Used Memory: 450289704 Bytes (636485632)
+2021-03-07 03:25:14,635 [INFO] MicroXplorer:442 - Change Database Path : 
+2021-03-07 03:25:14,636 [INFO] MicroXplorer:472 - Change Database Version : DB.6.0.20
+2021-03-07 03:25:14,636 [INFO] OpenFileManager:303 - Change cursor
+2021-03-07 03:25:14,649 [WARN] IntegrityCheckThread:59 - waiting for thirdparty lock release [integrity check]
+2021-03-07 03:25:14,649 [INFO] IntegrityCheckThread:61 - entering critical section [integrity check]
+2021-03-07 03:25:14,690 [WARN] PackLoader:226 - Cannot read IP mode file for RoweBots.I-CUBE-UNISONRTOS.5.5.0-4
+2021-03-07 03:25:14,698 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.X-CUBE-SFXS2LP1.3.0.0
+2021-03-07 03:25:14,731 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.X-CUBE-MEMS1.8.2.0
+2021-03-07 03:25:14,900 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.X-CUBE-EEPRMA1.3.0.0
+2021-03-07 03:25:14,906 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.X-CUBE-NFC4.2.0.2
+2021-03-07 03:25:14,911 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.X-CUBE-BLE2.3.2.0
+2021-03-07 03:25:14,922 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.X-CUBE-SUBG2.4.0.0
+2021-03-07 03:25:14,954 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-H7.1.0.0
+2021-03-07 03:25:14,961 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.X-CUBE-DISPLAY.1.0.0
+2021-03-07 03:25:14,965 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.X-CUBE-ALGOBUILD.1.2.0
+2021-03-07 03:25:14,970 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.X-CUBE-GNSS1.5.2.0
+2021-03-07 03:25:14,973 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.X-CUBE-BLE1.6.1.0
+2021-03-07 03:25:14,976 [WARN] PackLoader:226 - Cannot read IP mode file for wolfSSL.I-CUBE-wolfSSL.4.7.0
+2021-03-07 03:25:14,977 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.X-CUBE-TOUCHGFX.4.16.1
+2021-03-07 03:25:14,980 [WARN] PackLoader:226 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AI.5.2.0
+2021-03-07 03:25:14,981 [INFO] ThirdParty:900 - Integrity check success = true
+2021-03-07 03:25:14,981 [INFO] IntegrityCheckThread:75 - exiting critical section [integrity check]
+2021-03-07 03:25:14,981 [INFO] IntegrityCheckThread:78 - End integrity checks thread
+2021-03-07 03:25:18,471 [INFO] Context:587 - Trying to add GPIOservice into a context  which must be forbidden
+2021-03-07 03:25:21,295 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) Unable to find key (Mcu.ThirdPartyNb) in loaded IOC file
+2021-03-07 03:25:21,296 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) Unable to find key (Mcu.PinsNb) in loaded IOC file
+2021-03-07 03:25:21,296 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) Unable to find key (Mcu.IPNb) in loaded IOC file
+2021-03-07 03:25:21,360 [WARN] ApiManager:294 - Cannot register API 'Board Extension:S2868A1' from pack STMicroelectronics.X-CUBE-SFXS2LP1.3.0.0: no header file found
+2021-03-07 03:25:21,361 [WARN] ApiManager:294 - Cannot register API 'Board Extension:S2868A2' from pack STMicroelectronics.X-CUBE-SFXS2LP1.3.0.0: no header file found
+2021-03-07 03:25:21,361 [WARN] ApiManager:294 - Cannot register API 'Board Extension:S2915A1' from pack STMicroelectronics.X-CUBE-SFXS2LP1.3.0.0: no header file found
+2021-03-07 03:25:21,364 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-03-07 03:25:21,364 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-03-07 03:25:21,364 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-03-07 03:25:21,365 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-03-07 03:25:21,365 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-03-07 03:25:21,365 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-03-07 03:25:21,365 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-03-07 03:25:21,365 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-03-07 03:25:21,365 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-03-07 03:25:21,365 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-03-07 03:25:21,365 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-03-07 03:25:21,365 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-03-07 03:25:21,365 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-03-07 03:25:21,365 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-03-07 03:25:21,365 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-03-07 03:25:21,366 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-03-07 03:25:21,366 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-03-07 03:25:21,366 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-03-07 03:25:21,366 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-03-07 03:25:21,366 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-03-07 03:25:21,366 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-03-07 03:25:21,366 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-03-07 03:25:21,366 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-03-07 03:25:21,366 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-03-07 03:25:21,366 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-03-07 03:25:21,366 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-03-07 03:25:21,366 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2021-03-07 03:25:21,373 [WARN] ApiManager:294 - Cannot register API 'Board Extension:S2868A1' from pack STMicroelectronics.X-CUBE-SUBG2.4.0.0: no header file found
+2021-03-07 03:25:21,374 [WARN] ApiManager:294 - Cannot register API 'Board Extension:S2868A2' from pack STMicroelectronics.X-CUBE-SUBG2.4.0.0: no header file found
+2021-03-07 03:25:21,374 [WARN] ApiManager:294 - Cannot register API 'Board Extension:S2915A1' from pack STMicroelectronics.X-CUBE-SUBG2.4.0.0: no header file found
+2021-03-07 03:25:21,476 [WARN] ApiManager:294 - Cannot register API 'Board Extension:IKS01A3' from pack STMicroelectronics.X-CUBE-MEMS1.8.2.0: no header file found
+2021-03-07 03:25:21,476 [WARN] ApiManager:294 - Cannot register API 'Board Extension:IKS01A2' from pack STMicroelectronics.X-CUBE-MEMS1.8.2.0: no header file found
+2021-03-07 03:25:21,476 [WARN] ApiManager:294 - Cannot register API 'Board Extension:IKS02A1' from pack STMicroelectronics.X-CUBE-MEMS1.8.2.0: no header file found
+2021-03-07 03:25:21,502 [WARN] ApiManager:294 - Cannot register API 'Board Extension:EEPRMA1' from pack STMicroelectronics.X-CUBE-EEPRMA1.3.0.0: no header file found
+2021-03-07 03:25:21,502 [WARN] ApiManager:294 - Cannot register API 'Board Extension:EEPRMA2' from pack STMicroelectronics.X-CUBE-EEPRMA1.3.0.0: no header file found
+2021-03-07 03:25:21,504 [INFO] RtosManager:470 - Registered RTOS mode: class=CMSIS, group=RTOS, mode=CMSIS_V1, owner=FREERTOS
+2021-03-07 03:25:21,504 [INFO] RtosManager:470 - Registered RTOS mode: class=CMSIS, group=RTOS2, mode=CMSIS_V2, owner=FREERTOS
+2021-03-07 03:25:21,505 [INFO] RtosManager:470 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V1, owner=FREERTOS
+2021-03-07 03:25:21,505 [INFO] RtosManager:470 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V2, owner=FREERTOS
+2021-03-07 03:25:21,505 [WARN] ModelIntegratedComponent:182 - Missing modes for component STMicroelectronics:FreeRTOS:0.0.1:STMicroelectronics:RTOS:FreeRTOS:Core:::10.2.0:
+2021-03-07 03:25:21,507 [WARN] ApiManager:294 - Cannot register API 'Board Extension:GNSS1A1' from pack STMicroelectronics.X-CUBE-GNSS1.5.2.0: no header file found
+2021-03-07 03:25:21,507 [WARN] ApiManager:294 - Cannot register API 'Board Support:Custom' from pack STMicroelectronics.X-CUBE-GNSS1.5.2.0: no header file found
+2021-03-07 03:25:21,507 [WARN] ApiManager:294 - Cannot register API 'Data Exchange:lib_gnss' from pack STMicroelectronics.X-CUBE-GNSS1.5.2.0: no header file found
+2021-03-07 03:25:21,507 [WARN] ApiManager:294 - Cannot register API 'Wireless:BlueNRG-MS' from pack STMicroelectronics.X-CUBE-BLE1.6.1.0: no header file found
+2021-03-07 03:25:21,509 [WARN] ApiManager:294 - Cannot register API 'Board Extension:NFC04A1' from pack STMicroelectronics.X-CUBE-NFC4.2.0.2: no header file found
+2021-03-07 03:25:21,511 [WARN] ApiManager:294 - Cannot register API 'Wireless:BlueNRG-2' from pack STMicroelectronics.X-CUBE-BLE2.3.2.0: no header file found
+2021-03-07 03:25:22,147 [INFO] UtilMem:74 - End LoadConfig() Used Memory: 559201008 Bytes (717225984)
+2021-03-07 03:25:22,151 [WARN] ThirdParty:762 - waiting for thirdparty lock release [change project]
+2021-03-07 03:25:22,151 [INFO] ThirdParty:764 - entering critical section [change project]
+2021-03-07 03:25:22,151 [INFO] ThirdParty:952 - CMSIS Pack Vendor :RoweBots I-CUBE-UNISONRTOS 5.5.0-4
+2021-03-07 03:25:22,151 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SFXS2LP1 3.0.0
+2021-03-07 03:25:22,152 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 2.0.0
+2021-03-07 03:25:22,152 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 3.0.0
+2021-03-07 03:25:22,152 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics HAL Drivers 0.0.0
+2021-03-07 03:25:22,152 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.16.2
+2021-03-07 03:25:22,152 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.14.1
+2021-03-07 03:25:22,152 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SUBG2 4.0.0
+2021-03-07 03:25:22,152 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7 1.0.0
+2021-03-07 03:25:22,152 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 2.0.0
+2021-03-07 03:25:22,152 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 8.2.0
+2021-03-07 03:25:22,152 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-EEPRMA1 3.0.0
+2021-03-07 03:25:22,152 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-DISPLAY 1.0.0
+2021-03-07 03:25:22,153 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics FreeRTOS 0.0.1
+2021-03-07 03:25:22,153 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 1.0.0
+2021-03-07 03:25:22,153 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALGOBUILD 1.2.0
+2021-03-07 03:25:22,153 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 5.2.0
+2021-03-07 03:25:22,153 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 6.1.0
+2021-03-07 03:25:22,153 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.0.3
+2021-03-07 03:25:22,153 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.1.2
+2021-03-07 03:25:22,153 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 1.0.0
+2021-03-07 03:25:22,153 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 2.0.2
+2021-03-07 03:25:22,153 [INFO] ThirdParty:952 - CMSIS Pack Vendor :wolfSSL I-CUBE-wolfSSL 4.7.0
+2021-03-07 03:25:22,153 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.16.1
+2021-03-07 03:25:22,153 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 5.2.0
+2021-03-07 03:25:22,153 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.1.0
+2021-03-07 03:25:22,154 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.2.0
+2021-03-07 03:25:22,154 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.3.0
+2021-03-07 03:25:22,154 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE2 3.2.0
+2021-03-07 03:25:22,154 [INFO] ThirdParty:770 - exiting critical section [change project]
+2021-03-07 03:25:22,702 [INFO] PinOutPanel:1435 - setPackage(No Configuration,No Configuration)
+2021-03-07 03:25:22,703 [INFO] PinOutPanel:1435 - setPackage(STM32H743ZITx,LQFP144)
+2021-03-07 03:25:23,545 [INFO] UtilMem:74 - Before build in PCC Used Memory: 584365040 Bytes (717225984)
+2021-03-07 03:25:23,935 [INFO] SharedServices:72 - Folder for power plug-in: /home/robbynelson/.stm32cubemx/plugins/power
+2021-03-07 03:25:23,991 [INFO] SharedServices:72 - Folder for power plug-in: /home/robbynelson/.stm32cubemx/plugins/power
+2021-03-07 03:25:24,036 [INFO] SharedServices:72 - Folder for power plug-in: /home/robbynelson/.stm32cubemx/plugins/power
+2021-03-07 03:25:24,052 [INFO] SharedServices:72 - Folder for power plug-in: /home/robbynelson/.stm32cubemx/plugins/power
+2021-03-07 03:25:24,201 [INFO] UtilMem:74 - After build in PCC Used Memory: 514084352 Bytes (717225984)
+2021-03-07 03:25:24,278 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,279 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,279 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,279 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,279 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,279 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,280 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,280 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,280 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,280 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,281 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,281 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,281 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,281 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,282 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,282 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,282 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,283 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,283 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,283 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,283 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,284 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,284 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,284 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,284 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,284 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,284 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,284 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,284 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,285 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,285 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,285 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,286 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,286 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,286 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,287 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,287 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,287 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,287 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,287 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,288 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,288 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,288 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,288 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,288 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,289 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,289 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,289 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,289 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,289 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,290 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,290 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,290 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,291 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,291 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,291 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,292 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,292 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,292 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,293 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,293 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,293 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,293 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,293 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,294 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,294 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,294 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,294 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,295 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,295 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,295 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,295 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,295 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,295 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,295 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,296 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,296 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,296 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,296 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,296 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,297 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,297 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,297 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,297 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,297 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,297 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,297 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,297 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,297 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,297 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,298 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,298 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,299 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,300 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,300 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,300 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-03-07 03:25:24,334 [INFO] ApiDbMcu:458 - Load IP Config File for PDM2PCM
+2021-03-07 03:25:24,354 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] toolchainItems.length=====1
+2021-03-07 03:25:24,426 [INFO] OpenFileManager:323 - Restore cursor
+2021-03-07 03:25:24,930 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 542140096 Bytes (717225984)
+2021-03-07 03:25:25,059 [INFO] ServerAccessManage:348 - Download File stm32cube_fw_h7_v190.zip
+2021-03-07 03:27:07,922 [INFO] FileExtend:225 - Unzip File : stm32cube_fw_h7_v190.zip
+2021-03-07 03:27:07,923 [INFO] FileExtend:240 - Standard Zip Deflate
+2021-03-07 03:27:27,063 [INFO] LoadServerPackagesThread:169 - End of LoadServerPackages Thread
+2021-03-07 03:27:27,103 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 565438352 Bytes (1073741824)
+2021-03-07 03:27:27,313 [INFO] CheckServerUpdateThread:102 - End of CheckServer Thread
+2021-03-07 03:27:27,661 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: SYS
+2021-03-07 03:27:27,661 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: RCC
+2021-03-07 03:27:27,661 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: NVIC
+2021-03-07 03:27:27,662 [INFO] CodeGenerator:641 - code generatio: config db path: /opt/st/stm32cubeide_1.6.0/plugins/com.st.stm32cube.common.mx_6.2.0.202102191602//db/
+2021-03-07 03:27:28,231 [INFO] CodeEngine:229 - oldGeneratedFile, /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/MXTmpFiles/license.tmp_save
+2021-03-07 03:27:28,644 [INFO] CodeEngine:247 - Generated code: /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/MXTmpFiles/license.tmp
+2021-03-07 03:27:28,715 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2021-03-07 03:27:28,716 [INFO] CodeEngine:229 - oldGeneratedFile, /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/MXTmpFiles/cortex.tmp_save
+2021-03-07 03:27:28,801 [INFO] CodeEngine:247 - Generated code: /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/MXTmpFiles/cortex.tmp
+2021-03-07 03:27:28,807 [INFO] CodeEngine:229 - oldGeneratedFile, /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/Core/Src/stm32h7xx_it.c_save
+2021-03-07 03:27:28,893 [INFO] CodeEngine:247 - Generated code: /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/Core/Src/stm32h7xx_it.c
+2021-03-07 03:27:28,894 [INFO] CodeEngine:229 - oldGeneratedFile, /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/Core/Inc/stm32h7xx_it.h_save
+2021-03-07 03:27:28,952 [INFO] CodeEngine:247 - Generated code: /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/Core/Inc/stm32h7xx_it.h
+2021-03-07 03:27:28,995 [INFO] CodeEngine:229 - oldGeneratedFile, /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/Core/Src/stm32h7xx_hal_msp.c_save
+2021-03-07 03:27:29,085 [INFO] CodeEngine:247 - Generated code: /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/Core/Src/stm32h7xx_hal_msp.c
+2021-03-07 03:27:29,085 [INFO] CodeEngine:229 - oldGeneratedFile, /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/MXTmpFiles/system.tmp_save
+2021-03-07 03:27:29,143 [INFO] CodeEngine:247 - Generated code: /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/MXTmpFiles/system.tmp
+2021-03-07 03:27:29,145 [INFO] CodeEngine:229 - oldGeneratedFile, /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/Core/Inc/stm32h7xx_hal_conf.h_save
+2021-03-07 03:27:29,214 [INFO] CodeEngine:247 - Generated code: /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/Core/Inc/stm32h7xx_hal_conf.h
+2021-03-07 03:27:29,275 [INFO] CodeEngine:229 - oldGeneratedFile, /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/Core/Inc/main.h_save
+2021-03-07 03:27:29,346 [INFO] CodeEngine:247 - Generated code: /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/Core/Inc/main.h
+2021-03-07 03:27:29,347 [INFO] CodeEngine:229 - oldGeneratedFile, /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/Core/Src/main.c_save
+2021-03-07 03:27:29,443 [INFO] CodeEngine:247 - Generated code: /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/Core/Src/main.c
+2021-03-07 03:27:30,117 [INFO] ProjectBuilder:2460 - Time for Copy HAL[1] : 13mS.
+2021-03-07 03:27:30,121 [INFO] ProjectBuilder:3418 - Project Generator version: 3.13.0-B3
+2021-03-07 03:27:30,508 [INFO] ConfigFileManager:1242 - The Die is : DIE450
+2021-03-07 03:27:30,523 [INFO] ApiDbMcu:458 - Load IP Config File for FATFS
+2021-03-07 03:27:30,553 [INFO] ApiDbMcu:458 - Load IP Config File for FREERTOS
+2021-03-07 03:27:30,558 [INFO] ApiDbMcu:458 - Load IP Config File for LIBJPEG
+2021-03-07 03:27:30,678 [INFO] ApiDbMcu:458 - Load IP Config File for LWIP
+2021-03-07 03:27:30,749 [INFO] ApiDbMcu:458 - Load IP Config File for MBEDTLS
+2021-03-07 03:27:30,811 [INFO] ApiDbMcu:458 - Load IP Config File for USB_DEVICE
+2021-03-07 03:27:30,828 [INFO] ApiDbMcu:458 - Load IP Config File for USB_HOST
+2021-03-07 03:27:34,329 [INFO] ProjectBuilder:3584 - Time for Generating toolchain IDE Files: 4208mS.
+2021-03-07 03:27:34,330 [INFO] ProjectBuilder:2339 - Time for Copy CMSIS : 1mS.
+2021-03-07 03:27:34,330 [INFO] ProjectBuilder:2339 - Time for Copy CMSIS : 0mS.
+2021-03-07 03:27:34,672 [INFO] ApiDb:276 - Save user favorites file /home/robbynelson/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2021-03-07 03:27:34,672 [INFO] ApiDb:280 - User favorites MCUs=[]
+2021-03-07 03:27:35,231 [INFO] CrossSelectorPresenter:1330 - Cross Selector saved comparison directory: /home/robbynelson/.stmcufinder/plugins/mcufinder/mcu/cs_comparisons_mx
+2021-03-07 03:27:35,232 [INFO] MultiScanPanel:200 - Auto-refresh data requested => check proxy status ongoing
+2021-03-07 03:27:35,232 [INFO] FinderPluginLoader:87 - Searching for filters in installed packs
+2021-03-07 03:27:35,468 [WARN] DetailPanel:315 - Failed to get advertising image, set to default
+2021-03-07 03:28:14,568 [INFO] ApiDb:276 - Save user favorites file /home/robbynelson/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2021-03-07 03:28:14,568 [INFO] ApiDb:280 - User favorites MCUs=[]
+2021-03-07 19:26:38,653 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 834245808 Bytes (1073741824)
+2021-03-07 19:26:41,057 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 864132272 Bytes (1073741824)
+2021-03-07 19:26:49,341 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 905548976 Bytes (1073741824)
+2021-03-07 19:26:49,559 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: SYS
+2021-03-07 19:26:49,559 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: RCC
+2021-03-07 19:26:49,559 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: NVIC
+2021-03-07 19:26:49,560 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: GPIO
+2021-03-07 19:26:49,560 [INFO] CodeGenerator:641 - code generatio: config db path: /opt/st/stm32cubeide_1.6.0/plugins/com.st.stm32cube.common.mx_6.2.0.202102191602//db/
+2021-03-07 19:26:49,942 [INFO] CodeEngine:229 - oldGeneratedFile, /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/MXTmpFiles/license.tmp_save
+2021-03-07 19:26:49,983 [INFO] CodeEngine:247 - Generated code: /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/MXTmpFiles/license.tmp
+2021-03-07 19:26:50,004 [INFO] CodeEngine:229 - oldGeneratedFile, /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/MXTmpFiles/gpio.tmp_save
+2021-03-07 19:26:50,068 [INFO] CodeEngine:247 - Generated code: /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/MXTmpFiles/gpio.tmp
+2021-03-07 19:26:50,092 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2021-03-07 19:26:50,093 [INFO] CodeEngine:229 - oldGeneratedFile, /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/MXTmpFiles/cortex.tmp_save
+2021-03-07 19:26:50,144 [INFO] CodeEngine:247 - Generated code: /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/MXTmpFiles/cortex.tmp
+2021-03-07 19:26:50,149 [INFO] CodeEngine:229 - oldGeneratedFile, /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/Core/Src/stm32h7xx_it.c_save
+2021-03-07 19:26:50,210 [INFO] CodeEngine:247 - Generated code: /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/Core/Src/stm32h7xx_it.c
+2021-03-07 19:26:50,211 [INFO] CodeEngine:229 - oldGeneratedFile, /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/Core/Inc/stm32h7xx_it.h_save
+2021-03-07 19:26:50,255 [INFO] CodeEngine:247 - Generated code: /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/Core/Inc/stm32h7xx_it.h
+2021-03-07 19:26:50,279 [INFO] CodeEngine:229 - oldGeneratedFile, /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/Core/Src/stm32h7xx_hal_msp.c_save
+2021-03-07 19:26:50,339 [INFO] CodeEngine:247 - Generated code: /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/Core/Src/stm32h7xx_hal_msp.c
+2021-03-07 19:26:50,340 [INFO] CodeEngine:229 - oldGeneratedFile, /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/MXTmpFiles/system.tmp_save
+2021-03-07 19:26:50,377 [INFO] CodeEngine:247 - Generated code: /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/MXTmpFiles/system.tmp
+2021-03-07 19:26:50,378 [INFO] CodeEngine:229 - oldGeneratedFile, /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/Core/Inc/stm32h7xx_hal_conf.h_save
+2021-03-07 19:26:50,425 [INFO] CodeEngine:247 - Generated code: /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/Core/Inc/stm32h7xx_hal_conf.h
+2021-03-07 19:26:50,446 [INFO] CodeEngine:229 - oldGeneratedFile, /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/Core/Inc/main.h_save
+2021-03-07 19:26:50,492 [INFO] CodeEngine:247 - Generated code: /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/Core/Inc/main.h
+2021-03-07 19:26:50,493 [INFO] CodeEngine:229 - oldGeneratedFile, /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/Core/Src/main.c_save
+2021-03-07 19:26:50,558 [INFO] CodeEngine:247 - Generated code: /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/Core/Src/main.c
+2021-03-07 19:26:51,153 [INFO] ProjectBuilder:2460 - Time for Copy HAL[1] : 29mS.
+2021-03-07 19:26:51,154 [INFO] ProjectBuilder:3418 - Project Generator version: 3.13.0-B3
+2021-03-07 19:26:51,367 [INFO] ConfigFileManager:1242 - The Die is : DIE450
+2021-03-07 19:26:52,435 [INFO] ProjectBuilder:3584 - Time for Generating toolchain IDE Files: 1281mS.
+2021-03-07 19:26:52,436 [INFO] ProjectBuilder:2339 - Time for Copy CMSIS : 1mS.
+2021-03-07 19:26:52,436 [INFO] ProjectBuilder:2339 - Time for Copy CMSIS : 0mS.
+2021-03-07 19:27:53,793 [INFO] Gpio:248 - dependency for GPIO []
+2021-03-07 19:29:16,734 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 567223760 Bytes (1073741824)
+2021-03-07 19:29:18,778 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 579280336 Bytes (1073741824)
+2021-03-07 19:29:20,098 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 605298160 Bytes (1073741824)
+2021-03-07 19:29:20,278 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: SYS
+2021-03-07 19:29:20,278 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: RCC
+2021-03-07 19:29:20,279 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: NVIC
+2021-03-07 19:29:20,279 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: GPIO
+2021-03-07 19:29:20,279 [INFO] CodeGenerator:641 - code generatio: config db path: /opt/st/stm32cubeide_1.6.0/plugins/com.st.stm32cube.common.mx_6.2.0.202102191602//db/
+2021-03-07 19:29:20,595 [INFO] CodeEngine:229 - oldGeneratedFile, /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/MXTmpFiles/license.tmp_save
+2021-03-07 19:29:20,644 [INFO] CodeEngine:247 - Generated code: /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/MXTmpFiles/license.tmp
+2021-03-07 19:29:20,651 [INFO] CodeEngine:229 - oldGeneratedFile, /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/MXTmpFiles/gpio.tmp_save
+2021-03-07 19:29:20,699 [INFO] CodeEngine:247 - Generated code: /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/MXTmpFiles/gpio.tmp
+2021-03-07 19:29:20,715 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2021-03-07 19:29:20,717 [INFO] CodeEngine:229 - oldGeneratedFile, /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/MXTmpFiles/cortex.tmp_save
+2021-03-07 19:29:20,759 [INFO] CodeEngine:247 - Generated code: /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/MXTmpFiles/cortex.tmp
+2021-03-07 19:29:20,764 [INFO] CodeEngine:229 - oldGeneratedFile, /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/Core/Src/stm32h7xx_it.c_save
+2021-03-07 19:29:20,821 [INFO] CodeEngine:247 - Generated code: /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/Core/Src/stm32h7xx_it.c
+2021-03-07 19:29:20,821 [INFO] CodeEngine:229 - oldGeneratedFile, /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/Core/Inc/stm32h7xx_it.h_save
+2021-03-07 19:29:20,866 [INFO] CodeEngine:247 - Generated code: /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/Core/Inc/stm32h7xx_it.h
+2021-03-07 19:29:20,889 [INFO] CodeEngine:229 - oldGeneratedFile, /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/Core/Src/stm32h7xx_hal_msp.c_save
+2021-03-07 19:29:20,952 [INFO] CodeEngine:247 - Generated code: /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/Core/Src/stm32h7xx_hal_msp.c
+2021-03-07 19:29:20,953 [INFO] CodeEngine:229 - oldGeneratedFile, /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/MXTmpFiles/system.tmp_save
+2021-03-07 19:29:20,995 [INFO] CodeEngine:247 - Generated code: /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/MXTmpFiles/system.tmp
+2021-03-07 19:29:20,996 [INFO] CodeEngine:229 - oldGeneratedFile, /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/Core/Inc/stm32h7xx_hal_conf.h_save
+2021-03-07 19:29:21,047 [INFO] CodeEngine:247 - Generated code: /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/Core/Inc/stm32h7xx_hal_conf.h
+2021-03-07 19:29:21,069 [INFO] CodeEngine:229 - oldGeneratedFile, /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/Core/Inc/main.h_save
+2021-03-07 19:29:21,115 [INFO] CodeEngine:247 - Generated code: /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/Core/Inc/main.h
+2021-03-07 19:29:21,116 [INFO] CodeEngine:229 - oldGeneratedFile, /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/Core/Src/main.c_save
+2021-03-07 19:29:21,178 [INFO] CodeEngine:247 - Generated code: /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/Core/Src/main.c
+2021-03-07 19:29:21,626 [INFO] ProjectBuilder:2460 - Time for Copy HAL[1] : 11mS.
+2021-03-07 19:29:21,628 [INFO] ProjectBuilder:3418 - Project Generator version: 3.13.0-B3
+2021-03-07 19:29:22,026 [INFO] ConfigFileManager:1242 - The Die is : DIE450
+2021-03-07 19:29:23,127 [INFO] ProjectBuilder:3584 - Time for Generating toolchain IDE Files: 1499mS.
+2021-03-07 19:29:23,127 [INFO] ProjectBuilder:2339 - Time for Copy CMSIS : 0mS.
+2021-03-07 19:29:23,128 [INFO] ProjectBuilder:2339 - Time for Copy CMSIS : 0mS.
+2021-03-07 19:30:33,953 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 673181416 Bytes (1073741824)
+2021-03-07 19:30:34,141 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: SYS
+2021-03-07 19:30:34,142 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: RCC
+2021-03-07 19:30:34,142 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: NVIC
+2021-03-07 19:30:34,142 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: GPIO
+2021-03-07 19:30:34,143 [INFO] CodeGenerator:641 - code generatio: config db path: /opt/st/stm32cubeide_1.6.0/plugins/com.st.stm32cube.common.mx_6.2.0.202102191602//db/
+2021-03-07 19:30:34,508 [INFO] CodeEngine:229 - oldGeneratedFile, /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/MXTmpFiles/license.tmp_save
+2021-03-07 19:30:34,549 [INFO] CodeEngine:247 - Generated code: /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/MXTmpFiles/license.tmp
+2021-03-07 19:30:34,557 [INFO] CodeEngine:229 - oldGeneratedFile, /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/MXTmpFiles/gpio.tmp_save
+2021-03-07 19:30:34,600 [INFO] CodeEngine:247 - Generated code: /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/MXTmpFiles/gpio.tmp
+2021-03-07 19:30:34,618 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2021-03-07 19:30:34,619 [INFO] CodeEngine:229 - oldGeneratedFile, /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/MXTmpFiles/cortex.tmp_save
+2021-03-07 19:30:34,660 [INFO] CodeEngine:247 - Generated code: /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/MXTmpFiles/cortex.tmp
+2021-03-07 19:30:34,666 [INFO] CodeEngine:229 - oldGeneratedFile, /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/Core/Src/stm32h7xx_it.c_save
+2021-03-07 19:30:34,752 [INFO] CodeEngine:247 - Generated code: /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/Core/Src/stm32h7xx_it.c
+2021-03-07 19:30:34,753 [INFO] CodeEngine:229 - oldGeneratedFile, /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/Core/Inc/stm32h7xx_it.h_save
+2021-03-07 19:30:34,795 [INFO] CodeEngine:247 - Generated code: /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/Core/Inc/stm32h7xx_it.h
+2021-03-07 19:30:34,820 [INFO] CodeEngine:229 - oldGeneratedFile, /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/Core/Src/stm32h7xx_hal_msp.c_save
+2021-03-07 19:30:34,879 [INFO] CodeEngine:247 - Generated code: /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/Core/Src/stm32h7xx_hal_msp.c
+2021-03-07 19:30:34,880 [INFO] CodeEngine:229 - oldGeneratedFile, /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/MXTmpFiles/system.tmp_save
+2021-03-07 19:30:34,911 [INFO] CodeEngine:247 - Generated code: /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/MXTmpFiles/system.tmp
+2021-03-07 19:30:34,912 [INFO] CodeEngine:229 - oldGeneratedFile, /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/Core/Inc/stm32h7xx_hal_conf.h_save
+2021-03-07 19:30:34,949 [INFO] CodeEngine:247 - Generated code: /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/Core/Inc/stm32h7xx_hal_conf.h
+2021-03-07 19:30:34,967 [INFO] CodeEngine:229 - oldGeneratedFile, /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/Core/Inc/main.h_save
+2021-03-07 19:30:35,004 [INFO] CodeEngine:247 - Generated code: /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/Core/Inc/main.h
+2021-03-07 19:30:35,004 [INFO] CodeEngine:229 - oldGeneratedFile, /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/Core/Src/main.c_save
+2021-03-07 19:30:35,059 [INFO] CodeEngine:247 - Generated code: /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/Core/Src/main.c
+2021-03-07 19:30:35,488 [INFO] ProjectBuilder:2460 - Time for Copy HAL[1] : 15mS.
+2021-03-07 19:30:35,489 [INFO] ProjectBuilder:3418 - Project Generator version: 3.13.0-B3
+2021-03-07 19:30:35,745 [INFO] ConfigFileManager:1242 - The Die is : DIE450
+2021-03-07 19:30:36,728 [INFO] ProjectBuilder:3584 - Time for Generating toolchain IDE Files: 1239mS.
+2021-03-07 19:30:36,729 [INFO] ProjectBuilder:2339 - Time for Copy CMSIS : 1mS.
+2021-03-07 19:30:36,729 [INFO] ProjectBuilder:2339 - Time for Copy CMSIS : 0mS.
