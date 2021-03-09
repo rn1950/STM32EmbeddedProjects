@@ -1214,3 +1214,75 @@
 2021-03-07 19:30:36,728 [INFO] ProjectBuilder:3584 - Time for Generating toolchain IDE Files: 1239mS.
 2021-03-07 19:30:36,729 [INFO] ProjectBuilder:2339 - Time for Copy CMSIS : 1mS.
 2021-03-07 19:30:36,729 [INFO] ProjectBuilder:2339 - Time for Copy CMSIS : 0mS.
+2021-03-08 19:29:26,373 [INFO] Gpio:248 - dependency for GPIO []
+2021-03-08 19:29:41,030 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 862173168 Bytes (1073741824)
+2021-03-08 19:29:43,191 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 939767792 Bytes (1073741824)
+2021-03-08 19:29:45,367 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 442161328 Bytes (1073741824)
+2021-03-08 19:29:45,592 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: SYS
+2021-03-08 19:29:45,592 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: RCC
+2021-03-08 19:29:45,592 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: NVIC
+2021-03-08 19:29:45,593 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: GPIO
+2021-03-08 19:29:45,593 [INFO] CodeGenerator:641 - code generatio: config db path: /opt/st/stm32cubeide_1.6.0/plugins/com.st.stm32cube.common.mx_6.2.0.202102191602//db/
+2021-03-08 19:29:45,926 [INFO] CodeEngine:229 - oldGeneratedFile, /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/MXTmpFiles/license.tmp_save
+2021-03-08 19:29:45,959 [INFO] CodeEngine:247 - Generated code: /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/MXTmpFiles/license.tmp
+2021-03-08 19:29:45,970 [INFO] CodeEngine:229 - oldGeneratedFile, /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/MXTmpFiles/gpio.tmp_save
+2021-03-08 19:29:46,003 [INFO] CodeEngine:247 - Generated code: /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/MXTmpFiles/gpio.tmp
+2021-03-08 19:29:46,024 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2021-03-08 19:29:46,025 [INFO] CodeEngine:229 - oldGeneratedFile, /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/MXTmpFiles/cortex.tmp_save
+2021-03-08 19:29:46,061 [INFO] CodeEngine:247 - Generated code: /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/MXTmpFiles/cortex.tmp
+2021-03-08 19:29:46,068 [INFO] CodeEngine:229 - oldGeneratedFile, /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/Core/Src/stm32h7xx_it.c_save
+2021-03-08 19:29:46,118 [INFO] CodeEngine:247 - Generated code: /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/Core/Src/stm32h7xx_it.c
+2021-03-08 19:29:46,118 [INFO] CodeEngine:229 - oldGeneratedFile, /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/Core/Inc/stm32h7xx_it.h_save
+2021-03-08 19:29:46,158 [INFO] CodeEngine:247 - Generated code: /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/Core/Inc/stm32h7xx_it.h
+2021-03-08 19:29:46,183 [INFO] CodeEngine:229 - oldGeneratedFile, /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/Core/Src/stm32h7xx_hal_msp.c_save
+2021-03-08 19:29:46,230 [INFO] CodeEngine:247 - Generated code: /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/Core/Src/stm32h7xx_hal_msp.c
+2021-03-08 19:29:46,231 [INFO] CodeEngine:229 - oldGeneratedFile, /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/MXTmpFiles/system.tmp_save
+2021-03-08 19:29:46,262 [INFO] CodeEngine:247 - Generated code: /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/MXTmpFiles/system.tmp
+2021-03-08 19:29:46,263 [INFO] CodeEngine:229 - oldGeneratedFile, /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/Core/Inc/stm32h7xx_hal_conf.h_save
+2021-03-08 19:29:46,300 [INFO] CodeEngine:247 - Generated code: /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/Core/Inc/stm32h7xx_hal_conf.h
+2021-03-08 19:29:46,360 [INFO] CodeEngine:229 - oldGeneratedFile, /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/Core/Inc/main.h_save
+2021-03-08 19:29:46,400 [INFO] CodeEngine:247 - Generated code: /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/Core/Inc/main.h
+2021-03-08 19:29:46,401 [INFO] CodeEngine:229 - oldGeneratedFile, /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/Core/Src/main.c_save
+2021-03-08 19:29:46,453 [INFO] CodeEngine:247 - Generated code: /home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/Core/Src/main.c
+2021-03-08 19:29:46,895 [INFO] ProjectBuilder:2460 - Time for Copy HAL[1] : 11mS.
+2021-03-08 19:29:46,896 [INFO] ProjectBuilder:3418 - Project Generator version: 3.13.0-B3
+2021-03-08 19:29:47,071 [INFO] ConfigFileManager:1242 - The Die is : DIE450
+2021-03-08 19:29:48,220 [INFO] ProjectBuilder:3584 - Time for Generating toolchain IDE Files: 1324mS.
+2021-03-08 19:29:48,220 [INFO] ProjectBuilder:2339 - Time for Copy CMSIS : 0mS.
+2021-03-08 19:29:48,221 [INFO] ProjectBuilder:2339 - Time for Copy CMSIS : 0mS.
+2021-03-08 19:46:05,675 [INFO] Activator:170 - 
+
+
+2021-03-08 19:46:05,677 [INFO] Activator:171 - !SESSION log4j initialized
+2021-03-08 19:46:31,317 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2021-03-08 19:46:31,319 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2021-03-08 19:46:31,595 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2021-03-08 19:46:31,595 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2021-03-08 19:46:32,544 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2021-03-08 19:46:32,545 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2021-03-08 19:46:32,971 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2021-03-08 19:46:32,972 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2021-03-08 19:46:33,254 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2021-03-08 19:46:33,254 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2021-03-08 19:46:33,549 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2021-03-08 19:46:33,549 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2021-03-08 19:46:33,825 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2021-03-08 19:46:33,825 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2021-03-08 19:46:34,364 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2021-03-08 19:46:34,364 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2021-03-08 19:46:34,626 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2021-03-08 19:46:34,626 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2021-03-08 19:46:34,890 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2021-03-08 19:46:34,890 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2021-03-08 19:46:35,176 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2021-03-08 19:46:35,176 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2021-03-08 19:46:35,485 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2021-03-08 19:46:35,485 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2021-03-08 19:46:35,768 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2021-03-08 19:46:35,769 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2021-03-08 19:46:35,986 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2021-03-08 19:46:35,986 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2021-03-08 19:46:41,423 [INFO] RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {}->http://sw-center.st.com:80: Connection reset
+2021-03-08 19:46:41,423 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-03-08 19:46:41,645 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2021-03-08 19:46:41,646 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80

@@ -97,18 +97,15 @@ int main(void)
 
   /* Infinite loop */
   /* USER CODE BEGIN WHILE */
-  static unsigned short pin_state = 0;
+  int pin_state = 0;
   while (1)
   {
     /* USER CODE END WHILE */
-
-	  pin_state = !pin_state;
-	  // write pin state
-	  // NOTE: You can in turn use HAL_GPIO_TogglePin
-	  HAL_GPIO_WritePin(LED1_GPIO_Port, LED1_Pin, pin_state);
-	  // synchronous delay for 500 ms
-	  HAL_Delay(500);
-
+	  pin_state = !pin_state; //Change the state of the LED's
+	  int pin_state_2 = !pin_state;
+	  HAL_GPIO_WritePin(LED1_GPIO_Port, LED1_Pin, pin_state); //Write to LED_1
+	  HAL_GPIO_WritePin(LED2_GPIO_Port, LED2_Pin, pin_state_2); //Write to LED_2
+	  HAL_Delay(500); //Delay for 500ms
 
     /* USER CODE BEGIN 3 */
   }
@@ -173,9 +170,13 @@ static void MX_GPIO_Init(void)
 
   /* GPIO Ports Clock Enable */
   __HAL_RCC_GPIOB_CLK_ENABLE();
+  __HAL_RCC_GPIOE_CLK_ENABLE();
 
   /*Configure GPIO pin Output Level */
   HAL_GPIO_WritePin(LED1_GPIO_Port, LED1_Pin, GPIO_PIN_RESET);
+
+  /*Configure GPIO pin Output Level */
+  HAL_GPIO_WritePin(LED2_GPIO_Port, LED2_Pin, GPIO_PIN_RESET);
 
   /*Configure GPIO pin : LED1_Pin */
   GPIO_InitStruct.Pin = LED1_Pin;
@@ -183,6 +184,13 @@ static void MX_GPIO_Init(void)
   GPIO_InitStruct.Pull = GPIO_NOPULL;
   GPIO_InitStruct.Speed = GPIO_SPEED_FREQ_LOW;
   HAL_GPIO_Init(LED1_GPIO_Port, &GPIO_InitStruct);
+
+  /*Configure GPIO pin : LED2_Pin */
+  GPIO_InitStruct.Pin = LED2_Pin;
+  GPIO_InitStruct.Mode = GPIO_MODE_OUTPUT_PP;
+  GPIO_InitStruct.Pull = GPIO_NOPULL;
+  GPIO_InitStruct.Speed = GPIO_SPEED_FREQ_LOW;
+  HAL_GPIO_Init(LED2_GPIO_Port, &GPIO_InitStruct);
 
 }
 
