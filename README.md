@@ -8,6 +8,8 @@ JLinkGDBServer -device STM32H743ZI
 
 In order to start GDB server on the host machine, add some break points and debug:
 
+https://wiki.segger.com/J-Link_GDB_Server
+
 ```
 gdb-multiarch
 file ~/STM32..... path to .elf file

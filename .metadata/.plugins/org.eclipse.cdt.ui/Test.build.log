@@ -1,22 +1,10 @@
-19:42:34 **** Incremental Build of configuration Debug for project Test ****
+14:29:40 **** Incremental Build of configuration Debug for project Test ****
 make -j8 all 
-arm-none-eabi-gcc -o "Test.elf" @"objects.list"   -mcpu=cortex-m7 -T"/home/robbynelson/STM32CubeIDE/workspace_1.6.0/Test/STM32H743ZITX_FLASH.ld" --specs=nosys.specs -Wl,-Map="Test.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv5-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
-Finished building target: Test.elf
- 
-arm-none-eabi-objdump -h -S  Test.elf  > "Test.list"
-arm-none-eabi-objcopy  -O binary  Test.elf  "Test.bin"
 arm-none-eabi-size   Test.elf 
-arm-none-eabi-objcopy  -O ihex  Test.elf  "Test.hex"
    text	   data	    bss	    dec	    hex	filename
    7444	     24	   1568	   9036	   234c	Test.elf
 Finished building: default.size.stdout
  
-Finished building: Test.bin
-Finished building: Test.hex
- 
- 
-Finished building: Test.list
- 
 
-19:42:35 Build Finished. 0 errors, 0 warnings. (took 328ms)
+14:29:41 Build Finished. 0 errors, 0 warnings. (took 234ms)
 
