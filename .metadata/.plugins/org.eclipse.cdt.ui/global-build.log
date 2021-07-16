@@ -1,17 +1,14 @@
-22:32:55 **** Incremental Build of configuration Debug for project IntroToADC ****
+12:47:06 **** Incremental Build of configuration Debug for project IntroToADC ****
 make -j8 all 
-arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m7 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32H743xx -c -I../Core/Inc -I../Drivers/STM32H7xx_HAL_Driver/Inc -I../Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32H7xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfpu=fpv5-d16 -mfloat-abi=hard -mthumb -o "Core/Src/main.o"
-arm-none-eabi-gcc -o "IntroToADC.elf" @"objects.list"   -mcpu=cortex-m7 -T"/home/robbynelson/STM32CubeIDE/workspace_1.6.0/IntroToADC/STM32H743ZITX_FLASH.ld" --specs=nosys.specs -Wl,-Map="IntroToADC.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv5-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
-Finished building target: IntroToADC.elf
- 
-arm-none-eabi-objdump -h -S  IntroToADC.elf  > "IntroToADC.list"
-arm-none-eabi-objcopy  -O binary  IntroToADC.elf  "IntroToADC.bin"
 arm-none-eabi-size   IntroToADC.elf 
    text	   data	    bss	    dec	    hex	filename
   22656	     28	   1676	  24360	   5f28	IntroToADC.elf
 Finished building: default.size.stdout
  
-Finished building: IntroToADC.bin
- 
-Finished building: IntroToADC.list
+12:49:45 **** Incremental Build of configuration Debug for project IntroToDAC ****
+make -j8 all 
+arm-none-eabi-size   IntroToDAC.elf 
+   text	   data	    bss	    dec	    hex	filename
+  14924	     24	   9664	  24612	   6024	IntroToDAC.elf
+Finished building: default.size.stdout
  
